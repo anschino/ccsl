@@ -1,11 +1,11 @@
 # Site Settings
 title: CCSL
 tagline: CCSL
-email: your-email@domain.com
+email: anschino@hotmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: ""
-url: "https://anschino.github.io/ccsl/"
+  Cognitive Communications Systems Laboratory
+baseurl: "https://anschino.github.io"
+url: "/ccsl"
 permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
