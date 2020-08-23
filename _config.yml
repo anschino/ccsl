@@ -4,8 +4,10 @@ tagline: CCSL
 email: anschino@hotmail.com
 description: >
   Cognitive Communications Systems Laboratory
-baseurl: "/ccsl"
-url: "https://anschino.github.io"
+#baseurl: "/ccsl"
+baseurl: ""
+#url: "https://anschino.github.io/"
+url: "https://anschino.github.io/ccsl"
 permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
