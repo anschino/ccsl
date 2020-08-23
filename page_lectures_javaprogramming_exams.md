@@ -9,14 +9,13 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-## Exams
+# (2020-2) Java Programming (39566)
 
-Exams
+### Exams
 
-```yml
-title: Page with menubar
-subtitle: Demo page with a menubar
-layout: page
-show_sidebar: false
-menubar: example_menu
-```
+(subject to change)
+
+| Exam | Date | Solution | Scores |
+|:---|:---:|:---:|:---:|
+| Midterm (Chatper 1 - 7) | TBD (Oct. 12 or 15) | - | - |
+| Final (Chatper 8 - 14) | TBD (Dec. 7 or 10) | - | - |

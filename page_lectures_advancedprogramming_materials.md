@@ -9,14 +9,12 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-## Materials
+# (2020-2) Advanced Programming (44733)
 
-Materials
-
-```yml
-title: Page with menubar
-subtitle: Demo page with a menubar
-layout: page
-show_sidebar: false
-menubar: example_menu
-```
+### Materials
+* __Installation manuals__:
+    * Windows 10
+    * macOS
+* __Utilities__:
+    * Visual Studio Code
+    * MinGW Installation Manager (mingw-get) MinGW-Get Version 0.6.3 (Beta)

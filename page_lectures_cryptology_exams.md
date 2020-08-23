@@ -1,5 +1,5 @@
 ---
-title: Cryptography
+title: Cryptology
 subtitle: Exams
 layout: page
 show_sidebar: false
@@ -9,14 +9,13 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-## Exams
+# (2020-2) Cryptology (38211)
 
-Exams
+### Exams
 
-```yml
-title: Page with menubar
-subtitle: Demo page with a menubar
-layout: page
-show_sidebar: false
-menubar: example_menu
-```
+(subject to change)
+
+| Exam | Date | Solution | Scores |
+|:---|:---:|:---:|:---:|
+| Midterm (Chatper 2 - 8) | TBD (Oct. 20 or 21) | - | - |
+| Final (Chatper 9 - 15) | TBD (Dec. 8 or 9) | - | - |

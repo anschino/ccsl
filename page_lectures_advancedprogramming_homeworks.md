@@ -9,14 +9,8 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-## Homeworks
+# (2020-2) Advanced Programming (44733)
 
-Homeworks
+### Homeworks
 
-```yml
-title: Page with menubar
-subtitle: Demo page with a menubar
-layout: page
-show_sidebar: false
-menubar: example_menu
-```
+TBD
