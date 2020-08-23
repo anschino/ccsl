@@ -1,0 +1,15 @@
+- title: Current members
+  images:
+    - link: /img/img_Jihwan_Moon.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      description: |-
+        #### Jihwan Moon
+        Assistant Professor   
+        [anschino [at] hotmail [dot] com](mailto:anschino@hotmail.com)
+        * [Profile](/page_members_Jihwan_Moon){:prepend="site.baseurl"}
+        * [Google Scholar](http://scholar.google.co.kr/citations?user=U_8x14UAAAAJ&hl=ko){:target="_blank"}
+      ratio: is-128x128
+
+- title: Past members
+  images:
