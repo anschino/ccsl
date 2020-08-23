@@ -19,7 +19,10 @@ hide_hero: true
 hide_footer: true
 show_sidebar: false
 ---
+
 --------------------------------------------------
+* [Google Scholar](http://scholar.google.co.kr/citations?user=U_8x14UAAAAJ&hl=ko){:target="_blank"}
+
 #### Education
 * Mar. 2014	-	Feb. 2019
   * Doctor of Philosophy (major: electrical engineering, advisor: [Prof. Inkyu Lee](http://wireless.korea.ac.kr/){:target="_blank"})

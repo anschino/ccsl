@@ -16,9 +16,22 @@
                 </div>
                 <div class="card-content">
                     <div class="content">
-                        {{ image.description | markdownify }}
+                        <!-- {{ image.description | markdownify }} -->
+                        <h4><b>{{ image.name }}</b></h4>
+                        {{ image.position }}
+                        <br>
+                        E-mail: {{ image.email }}
+                        <br>
+                        {% if image.link_internal == true %}
+                            {% if site.baseurl == "" %}
+                                <a href="{{ site.url }}/{{ image.link_cv }}">Curriculum Vitae</a>
+                            {% else %}
+                                <a href="{{ site.url }}/{{ site.baseurl }}/{{ image.link_cv }}">Curriculum Vitae</a>
+                            {% endif %}
+                        {% else %}
+                            <a href="{{ image.link_cv }}">Curriculum Vitae</a>
+                        {% endif %}
                     </div>
-
                 </div>
             </div>
         </div>
