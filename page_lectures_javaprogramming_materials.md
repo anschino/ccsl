@@ -9,12 +9,8 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2020-2) Java Programming (39566)
+# (2021-1) Java Programming (39566-01)
 
 ### Materials
-* __Installation manuals__:
-    * Windows 10
-    * macOS
-* __Utilities__:
-    * Visual Studio Code
-    * Java SE Development Kit 14
+
+Please check out the [Chosun University LMS](https://clc.chosun.ac.kr){:target="_blank"}

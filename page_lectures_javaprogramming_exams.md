@@ -9,7 +9,7 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2020-2) Java Programming (39566)
+# (2021-1) Java Programming (39566-01)
 
 ### Exams
 
@@ -17,5 +17,6 @@ hide_footer: true
 
 | Exam | Date | Solution | Scores |
 |:---|:---:|:---:|:---:|
-| Midterm (Chatper 1 - 7) | TBD (Oct. 12 or 15) | - | - |
-| Final (Chatper 8 - 14) | TBD (Dec. 7 or 10) | - | - |
+| Midterm live coding (Chatper 1 - 9) | Apr. 26 (Monday) | - | - |
+| Final exam (Chatper 10 - 14, Week 14) | Jun. 14 (Monday) | - | - |
+| Final live coding (Chatper 10 - 14, Week 14) | Jun. 16 (Wednesday) | - | - |

@@ -16,9 +16,13 @@
 - name: Lectures
   link: /page_lectures/
   dropdown:
-    - name: (2020-2) Cryptology
-      link: /page_lectures_cryptology_syllabus/
-    - name: (2020-2) Java programming
+    - name: (2021-1) Basic Programming
+      link: /page_lectures_basicprogramming_syllabus/
+    - name: (2021-1) Java programming
       link: /page_lectures_javaprogramming_syllabus/
-    - name: (2020-2) Advanced programming
-      link: /page_lectures_advancedprogramming_syllabus/
+    - name: (2021-1) Introduction to Information Security
+      link: /page_lectures_IntroInfoSec_syllabus/
+    - name: (2021-1) Electronic Circuit
+      link: /page_lectures_electroniccircuit_syllabus/
+    - name: (2021-1) Freshman Seminar
+      link: /page_lectures_freshman_syllabus/

@@ -1,15 +1,15 @@
 ---
-title: Java Programming
+title: Basic Programming
 subtitle: Homeworks
 layout: page
 show_sidebar: false
-tabs: tabs_lectures_javaprogramming
+tabs: tabs_lectures_basicprogramming
 hide_hero: true
 menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-1) Java Programming (39566-01)
+# (2021-1) Basic Programming (44767-08)
 
 ### Homeworks
 

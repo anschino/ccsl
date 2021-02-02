@@ -1,30 +1,33 @@
 ---
-title: Java Programming
+title: Basic Programming
 subtitle: Syllabus
 layout: page
 show_sidebar: false
-tabs: tabs_lectures_javaprogramming
+tabs: tabs_lectures_basicprogramming
 hide_hero: true
 menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-1) Java Programming (39566-01)
+# (2021-1) Basic Programming (44767-08)
 
 ### Information
 * __Time and location__:
-    * <span style="color:blue">Monday</span> 6A-7B (<span style="color:blue">14:00 - 16:00</span>, 2 hrs) at <span style="color:blue">IT 8221</span>
-    * <span style="color:blue">Wednesday</span> 6A-7B (<span style="color:blue">14:00 - 16:00</span>, 2 hrs) at <span style="color:blue">IT 8221</span>
+    * <span style="color:blue">Monday</span> 8A-9B (<span style="color:blue">16:00 - 18:00</span>, 2 hrs) at <span style="color:blue">IT 8206</span>
+    * <span style="color:blue">Wednesday</span> 8A-9B (<span style="color:blue">16:00 - 18:00</span>, 2 hrs) at <span style="color:blue">IT 8206</span>
 * __Lecturer__: Jihwan Moon
 * __Office Hour__: TBD at IT 8120
 * __Textbook__:
-    * "자바 프로그래밍 for Beginner"
+    * "C언어 for Beginner"
         * Author: 우재남
-        * Publisher: 한빛아카데미, Nov. 10, 2018
+        * Publisher: 한빛아카데미, Jun. 30, 2018
 * __<span style="color:red">IMPORTANT ! !</span>__:
     * <span style="color:blue">Visual Studio Code</span> as the main code editor by the lecturer
     * Other code editors depending on personal preferences
-        * <span style="color:blue">Eclipse for Java</span> (Installed in the labs)
+        * <span style="color:blue">Dev-C++</span>
+        * <span style="color:blue">Visual Studio Community</span>
+        * <span style="color:blue">Visual Studio 2019</span> (Installed in the labs)
+        * <span style="color:blue">Eclipse for C</span> (Installed in the labs)
         * Etc.
     * Seats to be assigned in prior to each live coding
         * <span style="color:red">A student's own reponsibility to make sure his or her code editors and compilers work before the live coding begins</span>
@@ -63,21 +66,20 @@ hide_footer: true
 
 | Week | Topic | Reading |
 |:---|:---:|:---|
-| Week 1 | Introduction to Java language | Chapter 1 |
+| Week 1 | Introduction to C language | Chapter 1 |
 |  | Development environment set-up | Chapter 1 |
-| Week 2 | Beginning Java programming | Chapter 2 |
-|  | Variables and data types | Chapter 3 |
-| Week 3 | Operators | Chapter 4 |
-|  | Conditional statement | Chapter 5 |
-| Week 4 | Basic loops, `for` statements | Chapter 6 |
-| Week 5 | Advanced loops, `while` statements | Chapter 7 |
-| Week 6 | Arrays | Chapter 8 |
-| Week 7 | Strings and methods | Chapter 9 |
+| Week 2 | Beginning C programming | Chapter 2 |
+| Week 3 | `printf` and data types | Chapter 3 |
+| Week 4 | Operators | Chapter 4 |
+| Week 5 | Conditional statements | Chapter 5 |
+| Week 6 | `for` loops | Chapter 6 |
+| Week 7 | `while` loops and flow control | Chapter 7 |
 | Week 8 | Midterm |  |
-| Week 9 | Exception handling and file inpnut/output | Chapter 10 |
-| Week 10 | Basic object-oriented programming | Chapter 11 |
-| Week 11 | Advanced object-oriented programming | Chapter 12 |
-| Week 12 | GUI programming | Chapter 13 |
-| Week 13 | Advanced programming and threads | Chapter 14 |
-| Week 14 | Generics and collections | Lecture slides |
+| Week 9 | Arrays | Chapter 8 |
+| Week 10 | Arrays and pointers | Chapter 9 |
+| Week 11 | Functions | Chapter 10 |
+| Week 12 | Standard input and output | Chapter 11 |
+|  | File input and output | Chapter 11 |
+| Week 13 | Advanced pointers | Chapter 12 |
+| Week 14 | `struct`, `union`, `enum` | Chapter 13 |
 | Week 15 | Final |  |
