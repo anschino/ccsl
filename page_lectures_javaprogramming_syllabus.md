@@ -34,13 +34,13 @@ hide_footer: true
 
 | Attendance | Lab sessions | Final exam | Midterm live coding | Final live coding |
 |:---:|:---:|:---:|:---:|:---:|
-| 10 % | 10 % | 20 % | 30 % | 30 % |
+| 20 % | 10 % | 10 % | 30 % | 30 % |
 
 * __Policies__:
-    * <span style="color:blue">"ABF"</span> grading policy
+    * Grade distribution
         * "A": Top 30 % of those who pass <span style="color:blue">both</span> of the midterm and final live coding
         * "B": Next 60 % of those who pass <span style="color:blue">one</span> of the midterm or final live coding
-        * "F": Otherwise
+        * "C", "D", "F": Otherwise
     * Attendance
         * More than <span style="color:blue">75 %</span> attendance of the total <span style="color:blue">hours</span> in the semester required
         * <span style="color:blue">3 tardies</span> equivalent to <span style="color:blue">1 absence</span>
