@@ -28,7 +28,6 @@ hide_footer: true
         * Etc.
     * Seats to be assigned in prior to each live coding
         * <span style="color:red">A student's own reponsibility to make sure his or her code editors and compilers work before the live coding begins</span>
-        * Personal laptops allowed
 
 ### Grading
 
