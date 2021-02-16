@@ -13,7 +13,7 @@ hide_footer: true
 
 ### Information
 * __Time and location__:
-    * <span style="color:blue">Tuesday</span> 9A-9B (<span style="color:blue">17:00 - 18:00</span>, 1 hr) at <span style="color:blue">IT 2228</span>
+    * <span style="color:blue">Tuesday</span> 9A-9B (<span style="color:blue">17:00 - 18:00</span>, 1 hr) at <span style="color:blue">IT 3210</span>
 * __Lecturer__: Jihwan Moon
 * __Office Hour__: TBD at IT 8120
 * __Textbook__:
