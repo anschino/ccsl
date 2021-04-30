@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+12. Juseong Park, Seunghwan Baek, __Jihwan Moon*__ and Inkyu Lee        
+__"Grid-based Bayesian Beam Tracking with Multiple Observations for Millimeter Wave Channels,"__     
+submitted to _IEEE Transactions on Vehicular Technology_, Apr. 2021.       
+
 11. Zhilin Fu, Sangwon Hwang, __Jihwan Moon*__, Haibao Ren and Inkyu Lee        
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
 submitted to _IEEE Transactions on Vehicular Technology_, Feb. 2021.       
