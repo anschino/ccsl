@@ -8,6 +8,17 @@ hero_height: is-light
 hide_footer: true
 ---
 
+# Recruitment
+
+Currently available positions:
+- Ph.D. program or Postdoctoral researcher position
+- Undergraduate researcher position
+
+We are looking for a memebr with inquiring spirits and a certain level of experience in
+- Linear algebra
+- Optimization
+- Machine learning
+
 # About us
 
 Cognitive Communications Systems Laboratory (CCSL)

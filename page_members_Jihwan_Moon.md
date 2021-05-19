@@ -59,13 +59,15 @@ show_sidebar: false
 #### Academic activities
 * IEEE Student Member (2016), IEEE Member (2019)
 * Technical paper review
-	* IEEE Access
-	* IEEE Communications Letters
-	* IEEE Transactions on Communications
-	* IEEE Transactions on Cognitive Communications and Networking
 	* IEEE Transactions on Wireless Communications
+	* IEEE Transactions on Communications
 	* IEEE Transactions on Vehicular Technology
 	* IEEE Transactions on Information Forensics and Security
+	* IEEE Transactions on Cognitive Communications and Networking
+	* IEEE Wireless Communications Letters
+	* IEEE Communications Letters
+	* IEEE Internet of Things Journal
+	* IEEE Access
   * IEEE Systems Journal
   * IEEE Transactions on Green Communications and Networking
   * IEEE Transactions on Network Science and Engineering
