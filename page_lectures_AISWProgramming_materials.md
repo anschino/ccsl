@@ -1,16 +1,16 @@
 ---
-title: Freshman Seminar
-subtitle: Homeworks
+title: AI Based SW Programming
+subtitle: Materials
 layout: page
 show_sidebar: false
-tabs: tabs_lectures_freshman
+tabs: tabs_lectures_AISWProgramming
 hide_hero: true
 menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-1) Freshman Seminar (41874-E2)
+# (2021-2) AI Based SW Programming (00000-00)
 
-### Homeworks
+### Materials
 
 Please check out the [Chosun University LMS](https://clc.chosun.ac.kr){:target="_blank"}

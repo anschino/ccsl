@@ -1,16 +1,16 @@
 ---
-title: Introduction to Information Security
+title: Cryptology
 subtitle: Materials
 layout: page
 show_sidebar: false
-tabs: tabs_lectures_IntroInfoSec
+tabs: tabs_lectures_cryptology
 hide_hero: true
 menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-1) Introduction to Information Security (44921-01)
+# (2021-2) Cryptology (00000-00)
 
-### Homeworks
+### Materials
 
 Please check out the [Chosun University LMS](https://clc.chosun.ac.kr){:target="_blank"}

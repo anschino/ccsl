@@ -21,7 +21,7 @@ submitted to _IEEE Transactions on Vehicular Technology_, Feb. 2021.
 
 10. Hongju Lee, __Jihwan Moon*__, Changick Song, Sang Hyun Lee and Inkyu Lee        
 __"Message-Passing Based Joint User Association and Time Allocation for Wireless Powered Communication Networks,"__     
-submitted to _IEEE Transactions on Wireless Communications_, Aug. 2020.       
+to appear in _IEEE Transactions on Wireless Communications_.       
 
 9. Jungjoo Lee, Taeseok Oh, __Jihwan Moon*__, Changick Song, Byeongsi Lee, Inkyu Lee        
 __"Hybrid Beamforming with Variable RF Attenuator for Multi-user mmWave Systems,"__     

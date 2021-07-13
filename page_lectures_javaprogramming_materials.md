@@ -9,7 +9,7 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-1) Java Programming (39566-01)
+# (2021-2) Java Programming (00000-00)
 
 ### Materials
 

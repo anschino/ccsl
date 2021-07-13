@@ -3,14 +3,14 @@ style: is-boxed
 size: is-large
 items:
   - name: Syllabus
-    link: /page_lectures_electroniccircuit_syllabus/
+    link: /page_lectures_advancedprogramming_syllabus/
     icon: fa-calendar-alt
   - name: Materials
-    link: /page_lectures_electroniccircuit_materials/
+    link: /page_lectures_advancedprogramming_materials/
     icon: fa-folder
   - name: Homeworks
-    link: /page_lectures_electroniccircuit_homeworks/
+    link: /page_lectures_advancedprogramming_homeworks/
     icon: fa-ellipsis-v
   - name: Exams
-    link: /page_lectures_electroniccircuit_exams/
+    link: /page_lectures_advancedprogramming_exams/
     icon: fa-tasks

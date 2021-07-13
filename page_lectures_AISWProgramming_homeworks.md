@@ -1,16 +1,16 @@
 ---
-title: Introduction to Information Security
-subtitle: Materials
+title: AI Based SW Programming
+subtitle: Homeworks
 layout: page
 show_sidebar: false
-tabs: tabs_lectures_IntroInfoSec
+tabs: tabs_lectures_AISWProgramming
 hide_hero: true
 menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-1) Introduction to Information Security (44921-01)
+# (2021-2) AI Based SW Programming (00000-00)
 
-### Materials
+### Homeworks
 
 Please check out the [Chosun University LMS](https://clc.chosun.ac.kr){:target="_blank"}

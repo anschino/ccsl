@@ -1,15 +1,15 @@
 ---
-title: Basic Programming
+title: Advanced Programming
 subtitle: Homeworks
 layout: page
 show_sidebar: false
-tabs: tabs_lectures_basicprogramming
+tabs: tabs_lectures_advancedprogramming
 hide_hero: true
 menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-1) Basic Programming (44767-08)
+# (2021-2) Advanced Programming (00000-00)
 
 ### Homeworks
 

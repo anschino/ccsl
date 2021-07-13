@@ -11,6 +11,10 @@ hide_footer: true
 
 # International conferences
 
+7. __Jihwan Moon*__, Sang Hyun Lee, Hoon Lee and Inkyu Lee,       
+__"Wireless Surveillance with Half-Duplex Monitors,"__      
+to be presented in 2021 IEEE Region 10 Symposium (TENSYMP), Jeju, the Republic of Korea, 23 - 25 Aug. 2021.      
+
 6. __Jihwan Moon*__, Hoon Lee, Changick Song, Seowoo Kang, Minseok Kim and Inkyu Lee,       
 __"Full-Duplex Spoofing Relays for Wireless Surveillance With Inter-Relay Interference Suppression,"__      
 2020 IEEE 91st Vehicular Technology Conference (VTC Spring), Antwerp, Belgium, 25 – 28 May 2020.        

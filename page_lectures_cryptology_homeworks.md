@@ -1,16 +1,16 @@
 ---
-title: Freshman Seminar
+title: Cryptology
 subtitle: Materials
 layout: page
 show_sidebar: false
-tabs: tabs_lectures_freshman
+tabs: tabs_lectures_cryptology
 hide_hero: true
 menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-1) Freshman Seminar (41874-E2)
+# (2021-2) Cryptology (00000-00)
 
-### Materials
+### Homeworks
 
 Please check out the [Chosun University LMS](https://clc.chosun.ac.kr){:target="_blank"}
