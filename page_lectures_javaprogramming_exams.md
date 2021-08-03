@@ -9,7 +9,7 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-2) Java Programming (00000-00)
+# (2021-2) Java Programming (39566-09)
 
 ### Exams
 
@@ -17,6 +17,6 @@ hide_footer: true
 
 | Exam | Date | Solution | Scores |
 |:---|:---:|:---:|:---:|
-| Midterm live coding (Chatper 1 - 9) | 000. 00 (000day) | - | - |
-| Final exam (Chatper 10 - 14) | 000. 00 (000day) | - | - |
-| Final live coding (Chatper 10 - 14) | 000. 00 (000day) | - | - |
+| Midterm live coding (Chatper 1 - 9) | Oct. 26 (Tuesday) | - | - |
+| Final exam (Chatper 10 - 14) | Dec. 13 (Monday) | - | - |
+| Final live coding (Chatper 10 - 14) | Dec. 14 (Tuesday) | - | - |

@@ -9,12 +9,12 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-2) Java Programming (00000-00)
+# (2021-2) Java Programming (39566-09)
 
 ### Information
 * __Time and location__:
-    * <span style="color:blue">000day</span> 00-00 (<span style="color:blue">00:00 - 00:00</span>, 2 hrs) at <span style="color:blue">IT 0000</span>
-    * <span style="color:blue">000day</span> 00-00 (<span style="color:blue">00:00 - 00:00</span>, 2 hrs) at <span style="color:blue">IT 0000</span>
+    * <span style="color:blue">Monday</span> 2A-3B (<span style="color:blue">10:00 - 12:00</span>, 2 hrs) at <span style="color:blue">IT 8221</span>
+    * <span style="color:blue">Tuesday</span> 6A-7B (<span style="color:blue">14:00 - 16:00</span>, 2 hrs) at <span style="color:blue">IT 8221</span>
 * __Lecturer__: Jihwan Moon
 * __Office Hour__: TBD at IT 8120
 * __Textbook__:

@@ -9,12 +9,12 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-2) Advanced Programming (00000-00)
+# (2021-2) Advanced Programming (44733-10)
 
 ### Information
 * __Time and location__:
-    * <span style="color:blue">000day</span> 00-00 (<span style="color:blue">00:00 - 00:00</span>, 2 hrs) at <span style="color:blue">IT 0000</span>
-    * <span style="color:blue">000day</span> 00-00 (<span style="color:blue">00:00 - 00:00</span>, 1 hr) at <span style="color:blue">IT 0000</span>
+    * <span style="color:blue">Tuesday</span> 9A-9B (<span style="color:blue">17:00 - 18:00</span>, 1 hr) at <span style="color:blue">IT 2210</span>
+    * <span style="color:blue">Thursday</span> 1A-2B (<span style="color:blue">09:00 - 11:00</span>, 2 hrs) at <span style="color:blue">IT 2210</span>
 * __Lecturer__: Jihwan Moon
 * __Office Hour__: TBD at IT 8120
 * __Textbook__:

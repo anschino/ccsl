@@ -9,12 +9,12 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-2) AI Based SW Programming (00000-00)
+# (2021-2) AI Based SW Programming (45549-03)
 
 ### Information
 * __Time and location__:
-    * <span style="color:blue">0day</span> 00-00 (<span style="color:blue">00:00 - 00:00</span>, 2 hrs) at <span style="color:blue">IT 0000</span>
-    * <span style="color:blue">0day</span> 00-00 (<span style="color:blue">00:00 - 00:00</span>, 2 hrs) at <span style="color:blue">IT 0000</span>
+    * <span style="color:blue">Monday</span> 8A-9B (<span style="color:blue">16:00 - 18:00</span>, 2 hrs) at <span style="color:blue">IT 8221</span>
+    * <span style="color:blue">Wednesday</span> 6A-7B (<span style="color:blue">14:00 - 16:00</span>, 2 hrs) at <span style="color:blue">IT 8221</span>
 * __Lecturer__: Jihwan Moon
 * __Office Hour__: TBD at IT 8120
 * __Textbook__:

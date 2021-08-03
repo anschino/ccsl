@@ -9,12 +9,12 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-2) Cryptology (00000-00)
+# (2021-2) Cryptology (38211-01)
 
 ### Information
 * __Time and location__:
-    * <span style="color:blue">000day</span> 00-00 (<span style="color:blue">00:00 - 00:00</span>, 2 hrs) at <span style="color:blue">IT 0000</span>
-    * <span style="color:blue">000day</span> 00-00 (<span style="color:blue">00:00 - 00:00</span>, 1 hr) at <span style="color:blue">IT 0000</span>
+    * <span style="color:blue">Monday</span> 7A-7B (<span style="color:blue">15:00 - 16:00</span>, 1 hr) at <span style="color:blue">IT 3228</span>
+    * <span style="color:blue">Wednesday</span> 8A-9B (<span style="color:blue">16:00 - 18:00</span>, 2 hrs) at <span style="color:blue">IT 3228</span>
 * __Lecturer__: Jihwan Moon
 * __Office Hour__: TBD at IT 8120
 * __Textbook__:

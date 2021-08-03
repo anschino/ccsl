@@ -9,7 +9,7 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-2) Cryptology (00000-00)
+# (2021-2) Cryptology (38211-01)
 
 ### Homeworks
 

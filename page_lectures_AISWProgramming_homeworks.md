@@ -9,7 +9,7 @@ menubar: menu_lectures
 hide_footer: true
 ---
 
-# (2021-2) AI Based SW Programming (00000-00)
+# (2021-2) AI Based SW Programming (45549-03)
 
 ### Homeworks
 
