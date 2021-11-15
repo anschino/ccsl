@@ -11,17 +11,23 @@ hide_footer: true
 
 # International journals
 
-12. Juseong Park, Seunghwan Baek, __Jihwan Moon*__ and Inkyu Lee        
-__"Grid-based Bayesian Beam Tracking with Multiple Observations for Millimeter Wave Channels,"__     
-submitted to _IEEE Transactions on Vehicular Technology_, Apr. 2021.       
+13. Seunghwan Baek, __Jihwan Moon*__, Junhee Park, Changick Song and Inkyu Lee        
+__"Real-time Machine Learning Methods for Two-way End-to-End Wireless Communication Systems,"__     
+submitted to _IEEE Internet of Things Journal_, Nov. 2021.       
 
-11. Zhilin Fu, Sangwon Hwang, __Jihwan Moon*__, Haibao Ren and Inkyu Lee        
+12. Zhilin Fu, Sangwon Hwang, __Jihwan Moon*__, Haibao Ren and Inkyu Lee        
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
 submitted to _IEEE Transactions on Vehicular Technology_, Feb. 2021.       
+
+11. Juseong Park, Seunghwan Baek, __Jihwan Moon*__ and Inkyu Lee        
+__"Grid-based Bayesian Beam Tracking with Multiple Observations for Millimeter Wave Channels,"__     
+to appear in _IEEE Transactions on Vehicular Technology_.       
+DOI: [10.1109/TVT.2021.3120516](https://doi.org/10.1109/TVT.2021.3120516){:target="_blank"}       
 
 10. Hongju Lee, __Jihwan Moon*__, Changick Song, Sang Hyun Lee and Inkyu Lee        
 __"Message-Passing Based Joint User Association and Time Allocation for Wireless Powered Communication Networks,"__     
 to appear in _IEEE Transactions on Wireless Communications_.       
+DOI: [10.1109/TWC.2021.3093317](https://doi.org/10.1109/TWC.2021.3093317){:target="_blank"}       
 
 9. Jungjoo Lee, Taeseok Oh, __Jihwan Moon*__, Changick Song, Byeongsi Lee, Inkyu Lee        
 __"Hybrid Beamforming with Variable RF Attenuator for Multi-user mmWave Systems,"__     
