@@ -28,6 +28,7 @@ show_sidebar: false
   * Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea   
 
 #### Experiences
-* Oct. 2020 - present
-  * Undergraduate researcher, [Cognitive Coimmunications Systems Laboratory (CCSL)](https://anschino.github.io/ccsl){:target="_blank"}, Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea   
+* Oct. 2021 - present
+  * Undergraduate researcher, [Cognitive Coimmunications Systems Laboratory (CCSL)](https://anschino.github.io/ccsl){:target="_blank"}
+  * Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea   
 
