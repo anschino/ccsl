@@ -19,19 +19,19 @@ submitted to _IEEE Internet of Things Journal_, Nov. 2021.
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
 submitted to _IEEE Transactions on Vehicular Technology_, Feb. 2021.       
 
-11. Juseong Park, Seunghwan Baek, __Jihwan Moon*__ and Inkyu Lee        
-__"Grid-based Bayesian Beam Tracking with Multiple Observations for Millimeter Wave Channels,"__     
-to appear in _IEEE Transactions on Vehicular Technology_.       
-DOI: [10.1109/TVT.2021.3120516](https://doi.org/10.1109/TVT.2021.3120516){:target="_blank"}       
-
-10. Hongju Lee, __Jihwan Moon*__, Changick Song, Sang Hyun Lee and Inkyu Lee        
+11. Hongju Lee, __Jihwan Moon*__, Changick Song, Sang Hyun Lee and Inkyu Lee        
 __"Message-Passing Based Joint User Association and Time Allocation for Wireless Powered Communication Networks,"__     
-to appear in _IEEE Transactions on Wireless Communications_.       
+_IEEE Transactions on Wireless Communications_, Vol. 21, No. 1, pp. 34 - 47, Jan. 2022.       
 DOI: [10.1109/TWC.2021.3093317](https://doi.org/10.1109/TWC.2021.3093317){:target="_blank"}       
+
+10. Juseong Park, Seunghwan Baek, __Jihwan Moon*__ and Inkyu Lee        
+__"Grid-based Bayesian Beam Tracking with Multiple Observations for Millimeter Wave Channels,"__     
+_IEEE Transactions on Vehicular Technology_, Vol. 70, No. 12, pp. 13413 - 13417, Dec. 2021.       
+DOI: [10.1109/TVT.2021.3120516](https://doi.org/10.1109/TVT.2021.3120516){:target="_blank"}       
 
 9. Jungjoo Lee, Taeseok Oh, __Jihwan Moon*__, Changick Song, Byeongsi Lee, Inkyu Lee        
 __"Hybrid Beamforming with Variable RF Attenuator for Multi-user mmWave Systems,"__     
-_IEEE Transactions on Vehicular Technology_, Vol. 69, No. 8, Aug. 2020.       
+_IEEE Transactions on Vehicular Technology_, Vol. 69, No. 8, pp. 9131 - 9134, Aug. 2020.       
 DOI: [10.1109/TVT.2020.2996193](https://doi.org/10.1109/TVT.2020.2996193){:target="_blank"}       
 
 8. __Jihwan Moon*__, Osvaldo Simeone, Seok-Hwan Park and Inkyu Lee      
