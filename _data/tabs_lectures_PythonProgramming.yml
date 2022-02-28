@@ -3,14 +3,14 @@ style: is-boxed
 size: is-large
 items:
   - name: Syllabus
-    link: /page_lectures_cryptology_syllabus/
+    link: /page_lectures_PythonProgramming_syllabus/
     icon: fa-calendar-alt
   - name: Materials
-    link: /page_lectures_cryptology_materials/
+    link: /page_lectures_PythonProgramming_materials/
     icon: fa-folder
   - name: Homeworks
-    link: /page_lectures_cryptology_homeworks/
+    link: /page_lectures_PythonProgramming_homeworks/
     icon: fa-ellipsis-v
   - name: Exams
-    link: /page_lectures_cryptology_exams/
+    link: /page_lectures_PythonProgramming_exams/
     icon: fa-tasks

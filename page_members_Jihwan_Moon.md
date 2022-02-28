@@ -33,7 +33,11 @@ show_sidebar: false
   * Departmet of Electrical Engineering, [Korea University](http://www.korea.ac.kr){:target="_blank"}, the Republic of Korea
 
 #### Experiences
-* Sep. 2020 - present
+* Mar. 2022 - present
+  * Assistant professor, Department of Mobile Convergence Engineering, [Hanbat National University](https://www.hanbat.ac.kr/), the Republic of Korea
+* Mar. 2021 - Feb. 2022
+  * Head of Major in Information Security, Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea
+* Sep. 2020 - Feb. 2022
   * Assistant professor, Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea
 * Jul. 2019 - Aug. 2020
   * Researcher, [The Affiliated Institute](https://nsr.recruiter.co.kr/){:target="_blank"} of [Electronics and Telecommunications Research Institute (ETRI)](https://www.etri.re.kr/){:target="_blank"}, the Republic of Korea
