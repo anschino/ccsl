@@ -1,5 +1,5 @@
 ---
-title: Suji Lee
+title: Min Seok Kim
 subtitle: Profile
 description: This is the profile
 #product_code: ABC124
@@ -23,7 +23,7 @@ show_sidebar: false
 --------------------------------------------------
 
 #### Education
-* Mar. 2020	-	present
+* Mar. 2018	-	present
   * Bachelor of engineering (major: Information and Communication Engineering)
   * Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea
 
@@ -31,7 +31,4 @@ show_sidebar: false
 * Apr. 2022 - present
   * Undergraduate researcher, [Cognitive Coimmunications Systems Laboratory (CCSL)](https://anschino.github.io/ccsl){:target="_blank"}
   * Department of Mobile Convergence Engineering, [Hanbat National University](https://www.hanbat.ac.kr/), the Republic of Korea
-* Oct. 2021 - Feb. 2022
-  * Undergraduate researcher, [Cognitive Coimmunications Systems Laboratory (CCSL)](https://anschino.github.io/ccsl){:target="_blank"}
-  * Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea
 
