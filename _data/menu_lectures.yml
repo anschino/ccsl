@@ -1,6 +1,10 @@
 - label: Lectures
   items:
-    - name: (2022-1) Introduction to Engineering Design
-      link: /page_lectures_IntroEngDesign_syllabus/
-    - name: (2022-1) Python Programming
-      link: /page_lectures_PythonProgramming_syllabus/
+    - name: (2022-2) Embedded Programming
+      link: /page_lectures_EmbeddedProgramming_syllabus/
+    - name: (2022-2) Mathematics for AI
+      link: /page_lectures_MathsAI_syllabus/
+    - name: (2022-2) Linear Algebra and Applications (Graduate)
+      link: /page_lectures_LinearAlgebra_syllabus/
+    - name: (2022-2) Random Processes (Graduate)
+      link: /page_lectures_RandomProcesses_syllabus/

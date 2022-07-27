@@ -11,13 +11,14 @@ hide_footer: true
 
 # International journals
 
-13. Seunghwan Baek, __Jihwan Moon*__, Junhee Park, Changick Song and Inkyu Lee        
-__"Real-time Machine Learning Methods for Two-way End-to-End Wireless Communication Systems,"__     
-submitted to _IEEE Internet of Things Journal_, Nov. 2021.       
-
-12. Zhilin Fu, Sangwon Hwang, __Jihwan Moon*__, Haibao Ren and Inkyu Lee        
+13. Zhilin Fu, Sangwon Hwang, __Jihwan Moon*__, Haibao Ren and Inkyu Lee        
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
-submitted to _IEEE Transactions on Vehicular Technology_, Feb. 2021.       
+accepted for _IEEE Transactions on Vehicular Technology_, Jul. 2022.       
+
+12. Seunghwan Baek, __Jihwan Moon*__, Junhee Park, Changick Song and Inkyu Lee        
+__"Real-time Machine Learning Methods for Two-way End-to-End Wireless Communication Systems,"__     
+accepted for _IEEE Internet of Things Journal_, Jun. 2022.       
+DOI: [10.1109/JIOT.2022.3186811](https://doi.org/10.1109/JIOT.2022.3186811){:target="_blank"}       
 
 11. Hongju Lee, __Jihwan Moon*__, Changick Song, Sang Hyun Lee and Inkyu Lee        
 __"Message-Passing Based Joint User Association and Time Allocation for Wireless Powered Communication Networks,"__     

@@ -75,3 +75,5 @@ show_sidebar: false
   * IEEE Systems Journal
   * IEEE Transactions on Green Communications and Networking
   * IEEE Transactions on Network Science and Engineering
+* Technical program committee
+  * 2022 IEEE 96th Vehicular Technology Conference: VTC2022-Fall

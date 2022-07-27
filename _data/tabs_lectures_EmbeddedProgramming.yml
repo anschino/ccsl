@@ -1,0 +1,16 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Syllabus
+    link: /page_lectures_EmbeddedProgramming_syllabus/
+    icon: fa-calendar-alt
+  - name: Materials
+    link: /page_lectures_EmbeddedProgramming_materials/
+    icon: fa-folder
+  - name: Homework
+    link: /page_lectures_EmbeddedProgramming_homework/
+    icon: fa-ellipsis-v
+  - name: Exams
+    link: /page_lectures_EmbeddedProgramming_exams/
+    icon: fa-tasks

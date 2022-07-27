@@ -11,6 +11,14 @@ hide_footer: true
 
 # Domestic conferences
 
+6. __Jihwan Moon*__,      
+__"Proactive Eavesdropping for Cloud Radio Access Networks,"__     
+presented in 2022 Summer Conference of Korea Information and Communications Society, 22 - 24 Jun. 2022.     
+
+5. __Jihwan Moon*__,      
+__"Optimization on Power Allocation for Covert Communications in Time Division Multiple Access Networks,"__     
+presented in 2022 Summer Conference of Korea Information and Communications Society, 22 - 24 Jun. 2022.     
+
 4. Zhilin Fu, Sangwon Hwang, __Jihwan Moon*__ and Inkyu Lee,      
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
 2021 Winter Conference of Korea Information and Communications Society, 03 - 05 Feb. 2021.      
