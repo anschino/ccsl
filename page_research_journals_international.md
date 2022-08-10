@@ -14,6 +14,7 @@ hide_footer: true
 13. Zhilin Fu, Sangwon Hwang, __Jihwan Moon*__, Haibao Ren and Inkyu Lee        
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
 accepted for _IEEE Transactions on Vehicular Technology_, Jul. 2022.       
+DOI: [10.1109/TVT.2022.3195529](https://doi.org/10.1109/TVT.2022.3195529){:target="_blank"}       
 
 12. Seunghwan Baek, __Jihwan Moon*__, Junhee Park, Changick Song and Inkyu Lee        
 __"Real-time Machine Learning Methods for Two-way End-to-End Wireless Communication Systems,"__     

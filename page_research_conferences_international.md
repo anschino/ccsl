@@ -13,7 +13,7 @@ hide_footer: true
 
 7. __Jihwan Moon*__, Sang Hyun Lee, Hoon Lee and Inkyu Lee,       
 __"Wireless Surveillance with Half-Duplex Monitors,"__      
-to be presented in 2021 IEEE Region 10 Symposium (TENSYMP), Jeju, the Republic of Korea, 23 - 25 Aug. 2021.      
+2021 IEEE Region 10 Symposium (TENSYMP), Jeju, the Republic of Korea, 23 - 25 Aug. 2021.      
 DOI: [10.1109/TENSYMP52854.2021.9550923](https://doi.org/10.1109/TENSYMP52854.2021.9550923){:target="_blank"}       
 
 6. __Jihwan Moon*__, Hoon Lee, Changick Song, Seowoo Kang, Minseok Kim and Inkyu Lee,       
