@@ -18,7 +18,7 @@ hide_footer: true
 | Chapter | Title | Files |
 |:---|:---:|:---|
 | Chapter 1 | Vector spaces | <span style="color:blue">[Assignment](/ccsl/materials/Linear_Algebra_Friedberg_HW_Ch_01.pdf){:target="_blank"} (due Oct. 16, 2022)</span> |
-| Chapter 2 | Linear transformations and matrices |  |
+| Chapter 2 | Linear transformations and matrices | <span style="color:blue">[Assignment](/ccsl/materials/Linear_Algebra_Friedberg_HW_Ch_02 (part 01).pdf){:target="_blank"} (due Nov. 13, 2022)</span> |
 | Chapter 3 | Elementary matrix operations and systems of linear equations |  |
 | Chapter 4 | Determinants |  |
 | Chapter 5 | Diagonalization |  |
