@@ -20,7 +20,7 @@ hide_footer: true
 |  | Course descriptions | [Lecture note](/ccsl/materials/Linear_Algebra_Ch_00.pdf){:target="_blank"} (ver. 20220907) |
 | Chapter 1 | Vector spaces | [Lecture note](/ccsl/materials/Linear_Algebra_Friedberg_Ch_01.pdf){:target="_blank"} (ver. 20221009) |
 | Chapter 2 | Linear transformations and matrices | [Lecture note](/ccsl/materials/Linear_Algebra_Friedberg_Ch_02.pdf){:target="_blank"} (ver. 20221116) |
-| Chapter 3 | Elementary matrix operations and systems of linear equations |  |
+| Chapter 3 | Elementary matrix operations and systems of linear equations | [Lecture note](/ccsl/materials/Linear_Algebra_Friedberg_Ch_03 (03_01).pdf){:target="_blank"} (ver. 20221130) |
 | Chapter 4 | Determinants |  |
 | Chapter 5 | Diagonalization |  |
 | Chapter 6 | Inner product spaces |  |
