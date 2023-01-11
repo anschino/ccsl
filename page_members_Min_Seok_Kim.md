@@ -28,7 +28,7 @@ show_sidebar: false
   * Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea
 
 #### Experiences
-* Apr. 2022 - present
+* Apr. 2022 - Oct. 2022
   * Undergraduate researcher, [Cognitive Coimmunications Systems Laboratory (CCSL)](https://anschino.github.io/ccsl){:target="_blank"}
   * Department of Mobile Convergence Engineering, [Hanbat National University](https://www.hanbat.ac.kr/), the Republic of Korea
 

@@ -14,26 +14,6 @@
       #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
       alt: The alt text for the image
       #description: |-
-      name: Suji Lee
-      position: Undergraduate Researcher
-      email: suji20 [at] chosun [dot] kr
-      link_cv: page_members_Suji_Lee
-      link_internal: true
-      ratio: is-128x128
-    - link: /img/img_Member.jpg
-      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
-      alt: The alt text for the image
-      #description: |-
-      name: Min Seok Kim
-      position: Undergraduate Researcher
-      email: wntkdnj1 [at] naver [dot] com
-      link_cv: page_members_Min_Seok_Kim
-      link_internal: true
-      ratio: is-128x128
-    - link: /img/img_Member.jpg
-      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
-      alt: The alt text for the image
-      #description: |-
       name: Md Sakil Hasan
       position: Master student
       email: sakilhasanpau [at] gmail [dot] com
@@ -61,5 +41,25 @@
       position: Undergraduate Researcher
       email: kgr271329 [at] gmail [dot] com
       link_cv: page_members_Gyubin_Kim
+      link_internal: true
+      ratio: is-128x128
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: Suji Lee
+      position: Undergraduate Researcher
+      email: suji20 [at] chosun [dot] kr
+      link_cv: page_members_Suji_Lee
+      link_internal: true
+      ratio: is-128x128
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: Min Seok Kim
+      position: Undergraduate Researcher
+      email: wntkdnj1 [at] naver [dot] com
+      link_cv: page_members_Min_Seok_Kim
       link_internal: true
       ratio: is-128x128

@@ -13,7 +13,8 @@ hide_footer: true
 
 8. Zhilin Fu, Boya Ju, __Jihwan Moon*__, Sangwon Hwang and Inkyu Lee,       
 __"Covert Communications in Two-way Relay Systems with Energy Harvesting,"__      
-_to be presented at_ 2022 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 19 - 21 Oct. 2022.      
+2022 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 19 - 21 Oct. 2022.      
+DOI: [10.1109/ICTC55196.2022.9952701](https://doi.org/10.1109/ICTC55196.2022.9952701){:target="_blank"}       
 
 7. __Jihwan Moon*__, Sang Hyun Lee, Hoon Lee and Inkyu Lee,       
 __"Wireless Surveillance with Half-Duplex Monitors,"__      
