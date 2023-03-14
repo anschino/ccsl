@@ -47,20 +47,18 @@ hide_footer: true
 | Week | Topic | Reading |
 |:---|:---:|:---|
 | Week 1 | Introduction |  |
-| Week 2 | Discrete Data-Message Encoding and Decoding | Chapter 1.1 |
-| Week 3 | Data Modulation and Demodulation for Continuous-Time Channels | Chapter 1.2 |
-| Week 4 | The Additive White Gaussian Noise (AWGN) Channel | Chapter 1.3 |
-| Week 5 | The Additive White Gaussian Noise (AWGN) Channel | Chapter 1.3 |
-| Week 6 | The Additive White Gaussian Noise (AWGN) Channel | Chapter 1.3 |
-| Week 7 | The Additive White Gaussian Noise (AWGN) Channel | Chapter 1.3 |
-| Week 8 | Midterm |  |
-| Week 9 | Discrete Channels | Chapter 1.4 |
-| Week 10 | Statistically Parametrized Variable Channels | Chapter 1.6 |
-| Week 11 | ISI and Receivers for Successive Message Transmission | Chapter 3.1 |
-|  | Basics of the Receiver-generated Equivalent AWGN | Chapter 3.2 |
-|  | Nyquist Criterion | Chapter 3.3 |
-| Week 12 | Linear Zero-Forcing Equalization | Chapter 3.4 |
-|  | Minimum Mean-Square Error Linear Equalization | Chapter 3.5 |
-| Week 13 | Decision Feedback Equalization | Chapter 3.6 |
-| Week 14 | Finite Length Equalizers | Chapter 3.7 |
+| Week 2 | Data Modulation and Demodulation for Continuous-Time Channels | Chapter 1.2 |
+| Week 3 | Discrete Data-Message Encoding and Decoding | Chapter 1.1 |
+|  | Random Process Review |  |
+| Week 4 | Continuous-Time AWGN Conversion to a Vector AWGN Channel | Chapter 1.3.1 |
+| Week 5 | Error Probability for the AWGN Channel | Chapter 1.3.2 |
+| Week 6 | General Classes of Constellations and Modulation | Chapter 1.3.3 |
+| Week 7 | General Classes of Constellations and Modulation | Chapter 1.3.3 |
+| Week 8 | Rectangular (and Hexagonal) Signal Constellations | Chapter 1.3.4 |
+| Week 9 | Additive Self-Correlated Noise | Chapter 1.3.7 |
+| Week 10 | Midterm |  |
+| Week 11 | Passband Representations and Terminology | Chapter 1.3.5.1 |
+| Week 12 | Passband Representations and Terminology | Chapter 1.3.5.1 |
+| Week 13 | Baseband-Equivalent AWGN Channel | Chapter 1.3.5.2 |
+| Week 14 | Conversion to a Baseband Equivalent Channel | Chapter 1.3.5.3 |
 | Week 15 | Final |  |
