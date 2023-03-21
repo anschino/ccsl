@@ -19,7 +19,7 @@ hide_footer: true
 |:---|:---:|:---|
 |  | Introduction |  |
 | Chapter 1.2 | Data Modulation and Demodulation for Continuous-Time Channels | [Lecture note](https://drive.google.com/file/d/1ObHDbhVfUoIDfP_H5RVeBNmFsq2Ljjjq/view?usp=sharing){:target="_blank"} (ver. 20230314) |
-| Chapter 1.1 | Discrete Data-Message Encoding and Decoding |  |
+| Chapter 1.1 | Discrete Data-Message Encoding and Decoding | [Lecture note](https://drive.google.com/file/d/12kNkYi9ceSeavCCzF3i_U9rFNkr3SPpG/view?usp=sharing){:target="_blank"} (ver. 20230321) |
 |  | Random Process Review |  |
 | Chapter 1.3.1 | Continuous-Time AWGN Conversion to a Vector AWGN Channel |  |
 | Chapter 1.3.2 | Error Probability for the AWGN Channel |  |
