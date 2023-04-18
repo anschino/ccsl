@@ -10,6 +10,7 @@
       link_cv: page_members_Jihwan_Moon
       link_internal: true
       ratio: is-128x128
+
     - link: /img/img_Member.jpg
       #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
       alt: The alt text for the image
@@ -20,6 +21,7 @@
       link_cv: 
       link_internal: true
       ratio: is-128x128
+
     - link: /img/img_Member.jpg
       #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
       alt: The alt text for the image
@@ -27,6 +29,17 @@
       name: Refat Khan
       position: Master student
       email: refatkhanuits [at] gmail [dot] com
+      link_cv: 
+      link_internal: true
+      ratio: is-128x128
+
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: Juchan Kim
+      position: Undergraduate Researcher
+      email: jckim229 [at] gmail [dot] com
       link_cv: 
       link_internal: true
       ratio: is-128x128
@@ -43,6 +56,7 @@
       link_cv: page_members_Gyubin_Kim
       link_internal: true
       ratio: is-128x128
+
     - link: /img/img_Member.jpg
       #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
       alt: The alt text for the image
@@ -53,6 +67,7 @@
       link_cv: page_members_Suji_Lee
       link_internal: true
       ratio: is-128x128
+
     - link: /img/img_Member.jpg
       #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
       alt: The alt text for the image

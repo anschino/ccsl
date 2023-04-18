@@ -11,6 +11,14 @@ hide_footer: true
 
 # Domestic conferences
 
+8. Refat Khan, __Jihwan Moon*__,      
+__"Fronthaul Designs for Proactive Eavesdropping With Relays,"__     
+2022 Radio Science and Communications Conference (RSCC), 28 Oct. 2022.     
+
+7. MD Sakil Hasan, __Jihwan Moon*__,      
+__"Data Rate Maximization for Time Division Multiple Access Networks With Low Detection Probability,"__     
+2022 Radio Science and Communications Conference (RSCC), 28 Oct. 2022.     
+
 6. __Jihwan Moon*__,      
 __"Proactive Eavesdropping for Cloud Radio Access Networks,"__     
 2022 Summer Conference of Korea Information and Communications Society, 22 - 24 Jun. 2022.     
