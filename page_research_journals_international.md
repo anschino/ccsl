@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+14. __Jihwan Moon*__        
+__"Covert Communications in a Compress-and-Forward Relay System,"__     
+Submitted for possible publication.       
+
 13. Zhilin Fu, Sangwon Hwang, __Jihwan Moon*__, Haibao Ren and Inkyu Lee        
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
 _IEEE Transactions on Vehicular Technology_, Vol. 71, No. 12, pp. 13366 - 13371, Dec. 2022.       

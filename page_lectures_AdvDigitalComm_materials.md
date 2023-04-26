@@ -23,7 +23,7 @@ hide_footer: true
 |  | Random Process Review |  |
 | Chapter 1.3.1 | Continuous-Time AWGN Conversion to a Vector AWGN Channel | [Lecture note](https://drive.google.com/file/d/1WxYLrc8vraYE1OFhIoVmGgNSOBSuMwg8/view?usp=sharing){:target="_blank"} (ver. 20230405) |
 | Chapter 1.3.2 | Error Probability for the AWGN Channel | [Lecture note](https://drive.google.com/file/d/1V0PNgJhp8cbCz5255yXnHY-MskhaVyw7/view?usp=sharing){:target="_blank"} (ver. 20230411) |
-| Chapter 1.3.3 | General Classes of Constellations and Modulation |  |
+| Chapter 1.3.3 | General Classes of Constellations and Modulation | [Lecture note](https://drive.google.com/file/d/1NxXgf-fgU-kqxhOvSShu4EQMLmV72Md7/view?usp=sharing){:target="_blank"} (ver. 20230426) |
 | Chapter 1.3.4 | Rectangular (and Hexagonal) Signal Constellations |  |
 | Chapter 1.3.7 | Additive Self-Correlated Noise |  |
 | Chapter 1.3.5.1 | Passband Representations and Terminology |  |
