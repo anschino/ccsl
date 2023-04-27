@@ -13,4 +13,8 @@ hide_footer: true
 
 ### Homeworks
 
-Please check out the [Hanbat National University LMS](https://cyber.hanbat.ac.kr){:target="_blank"}
+<!--Please check out the [Hanbat University LMS](https://cyber.hanbat.ac.kr){:target="_blank"}-->
+
+| Assignment | Files | Due |
+|:---:|:---:|:---:|
+| Assignment 1 | [File](https://drive.google.com/file/d/1Xe7xLjxQuBGJnqybimgvvMm7uWNx8KJp/view?usp=sharing){:target="_blank"} | May 15, 2023 |
