@@ -18,3 +18,4 @@ hide_footer: true
 | Assignment | Files | Due |
 |:---:|:---:|:---:|
 | Assignment 1 | [File](https://drive.google.com/file/d/1Xe7xLjxQuBGJnqybimgvvMm7uWNx8KJp/view?usp=sharing){:target="_blank"} | May 15, 2023 |
+| Assignment 2 | [File](https://drive.google.com/file/d/1e1rbEDG9vL6TbJIRMoObBa8zd5rI7WdC/view?usp=sharing){:target="_blank"} | May 29, 2023 |
