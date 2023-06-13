@@ -27,6 +27,5 @@ hide_footer: true
 | Chapter 1.3.4 | Rectangular (and Hexagonal) Signal Constellations | [Lecture note](https://drive.google.com/file/d/1mO0tuc_ViBXmIFMx0M-vLh7D1jb6X6Bc/view?usp=sharing){:target="_blank"} (ver. 20230504) |
 | Chapter 1.3.7 | Additive Self-Correlated Noise | [Lecture note](https://drive.google.com/file/d/1VopShFvUyqsx5PIAl27mJ_w--sCc8rom/view?usp=sharing){:target="_blank"} (ver. 20230504) |
 | Chapter 1.3.5.1 | Passband Representations and Terminology | [Lecture note](https://drive.google.com/file/d/1kRzGbXsowwqmFGAXJlM7OKlUUSSzaMtS/view?usp=sharing){:target="_blank"} (ver. 20230523) |
-| Chapter 1.3.5.2 | Baseband-Equivalent AWGN Channel |  |
+| Chapter 1.3.5.2 | Baseband-Equivalent AWGN Channel | [Lecture note](https://drive.google.com/file/d/1Bk9shEvEyv6FvG069rnL6le-6A2Hudri/view?usp=sharing){:target="_blank"} (ver. 20230613) |
 | Chapter 1.3.5.3 | Conversion to a Baseband Equivalent Channel |  |
-| Week 15 | Final |  |
