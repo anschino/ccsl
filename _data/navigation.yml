@@ -16,11 +16,13 @@
 - name: Lectures
   link: /page_lectures/
   dropdown:
-    - name: (2023-1) Introduction to Engineering Design
-      link: /page_lectures_IntroEngDesign_syllabus/
-    - name: (2023-1) Python Programming
-      link: /page_lectures_PythonProgramming_syllabus/
-    - name: (2023-1) Convex Analysis
-      link: /page_lectures_ConvexAnalysis_syllabus/
-    - name: (2023-1) Advanced Digital Communications
-      link: /page_lectures_AdvDigitalComm_syllabus/
+    - name: (2023-2) Convex Optimization
+      link: /page_lectures_ConvexOpt_syllabus/
+    - name: (2023-2) Multi-Antenna Communications
+      link: /page_lectures_MultiAntennaComm_syllabus/
+    - name: (2023-2) Digital Signal Processing
+      link: /page_lectures_DSP_syllabus/
+    - name: (2023-2) Embedded Programming
+      link: /page_lectures_EmbeddedProgramming_syllabus/
+    - name: (2023-2) Mathematics for AI
+      link: /page_lectures_MathsAI_syllabus/

@@ -1,6 +1,6 @@
 ---
 title: Lectures
-subtitle: Syllabus, course materials, homeworks
+subtitle: Syllabus, course materials, homework
 layout: page
 show_sidebar: false
 hide_hero: true

@@ -12,12 +12,13 @@ hide_footer: true
 # International journals
 
 15. __Jihwan Moon__        
-__"Disguised Full-Duplex Covert Communications,"__     
+__"Covert Communications in a Compress-and-Forward Relay System,"__     
 Submitted for possible publication.       
 
 14. __Jihwan Moon__        
-__"Covert Communications in a Compress-and-Forward Relay System,"__     
-Submitted for possible publication.       
+__"Disguised Full-Duplex Covert Communications,"__     
+_Sensors_, vol. 23, no. 14, p. 6515, Jul. 2023.     
+DOI: [10.3390/s23146515](https://doi.org/10.3390/s23146515){:target="_blank"}     
 
 13. Zhilin Fu, Sangwon Hwang, __Jihwan Moon__, Haibao Ren and Inkyu Lee        
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     

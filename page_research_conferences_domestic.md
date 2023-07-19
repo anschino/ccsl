@@ -13,15 +13,15 @@ hide_footer: true
 
 11. Refat Khan, __Jihwan Moon__,      
 __"Disguised Full-Duplex Transmission-Aided Covert Communications,"__     
-to be presented at 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     
+2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     
 
 10. MD Sakil Hasan, __Jihwan Moon__,      
 __"Compress-and-Forward Relay-Aided Covert Communications,"__     
-to be presented at 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     
+2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     
 
 9. Juchan Kim, __Jihwan Moon__,      
 __"An Empirical Investigation of a Cross Site Scripting (XSS) Attack With Bypassing a Blacklist of a Web Application,"__     
-to be presented at 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     
+2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     
 
 8. Refat Khan, __Jihwan Moon__,      
 __"Fronthaul Designs for Proactive Eavesdropping With Relays,"__     
