@@ -13,7 +13,7 @@ hide_footer: true
 
 15. __Jihwan Moon__        
 __"Covert Communications in a Compress-and-Forward Relay System,"__     
-Submitted for possible publication.       
+accepted for _ICT Express_      
 
 14. __Jihwan Moon__        
 __"Disguised Full-Duplex Covert Communications,"__     
