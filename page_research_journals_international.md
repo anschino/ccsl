@@ -14,6 +14,7 @@ hide_footer: true
 15. __Jihwan Moon__        
 __"Covert Communications in a Compress-and-Forward Relay System,"__     
 accepted for _ICT Express_      
+DOI: [10.1016/j.icte.2023.08.005](https://doi.org/10.1016/j.icte.2023.08.005){:target="_blank"}     
 
 14. __Jihwan Moon__        
 __"Disguised Full-Duplex Covert Communications,"__     
