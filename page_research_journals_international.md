@@ -11,9 +11,13 @@ hide_footer: true
 
 # International journals
 
+16. __Jihwan Moon__        
+__"Performance Comparison of Relay-Based Covert Communications: DF, CF and AF,"__     
+submitted for possible publication.     
+
 15. __Jihwan Moon__        
 __"Covert Communications in a Compress-and-Forward Relay System,"__     
-accepted for _ICT Express_      
+accepted for _ICT Express_.      
 DOI: [10.1016/j.icte.2023.08.005](https://doi.org/10.1016/j.icte.2023.08.005){:target="_blank"}     
 
 14. __Jihwan Moon__        
