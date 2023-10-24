@@ -11,46 +11,46 @@ hide_footer: true
 
 # International journals
 
-16. __Jihwan Moon__        
+16. __Jihwan Moon__,        
 __"Performance Comparison of Relay-Based Covert Communications: DF, CF and AF,"__     
-submitted for possible publication.     
+accepted for _Sensors_.      
 
-15. __Jihwan Moon__        
+15. __Jihwan Moon__,        
 __"Covert Communications in a Compress-and-Forward Relay System,"__     
 accepted for _ICT Express_.      
 DOI: [10.1016/j.icte.2023.08.005](https://doi.org/10.1016/j.icte.2023.08.005){:target="_blank"}     
 
-14. __Jihwan Moon__        
+14. __Jihwan Moon__,        
 __"Disguised Full-Duplex Covert Communications,"__     
 _Sensors_, vol. 23, no. 14, p. 6515, Jul. 2023.     
 DOI: [10.3390/s23146515](https://doi.org/10.3390/s23146515){:target="_blank"}     
 
-13. Zhilin Fu, Sangwon Hwang, __Jihwan Moon__, Haibao Ren and Inkyu Lee        
+13. Zhilin Fu, Sangwon Hwang, __Jihwan Moon__, Haibao Ren and Inkyu Lee,        
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
 _IEEE Transactions on Vehicular Technology_, Vol. 71, No. 12, pp. 13366 - 13371, Dec. 2022.       
 DOI: [10.1109/TVT.2022.3195529](https://doi.org/10.1109/TVT.2022.3195529){:target="_blank"}       
 
-12. Seunghwan Baek, __Jihwan Moon__, Junhee Park, Changick Song and Inkyu Lee        
+12. Seunghwan Baek, __Jihwan Moon__, Junhee Park, Changick Song and Inkyu Lee,        
 __"Real-time Machine Learning Methods for Two-way End-to-End Wireless Communication Systems,"__     
 _IEEE Internet of Things Journal_, Vol. 9, No. 22, pp. 22983 - 22992, 15 Nov. 2022     
 DOI: [10.1109/JIOT.2022.3186811](https://doi.org/10.1109/JIOT.2022.3186811){:target="_blank"}       
 
-11. Hongju Lee, __Jihwan Moon__, Changick Song, Sang Hyun Lee and Inkyu Lee        
+11. Hongju Lee, __Jihwan Moon__, Changick Song, Sang Hyun Lee and Inkyu Lee,        
 __"Message-Passing Based Joint User Association and Time Allocation for Wireless Powered Communication Networks,"__     
 _IEEE Transactions on Wireless Communications_, Vol. 21, No. 1, pp. 34 - 47, Jan. 2022.       
 DOI: [10.1109/TWC.2021.3093317](https://doi.org/10.1109/TWC.2021.3093317){:target="_blank"}       
 
-10. Juseong Park, Seunghwan Baek, __Jihwan Moon__ and Inkyu Lee        
+10. Juseong Park, Seunghwan Baek, __Jihwan Moon__ and Inkyu Lee,        
 __"Grid-based Bayesian Beam Tracking with Multiple Observations for Millimeter Wave Channels,"__     
 _IEEE Transactions on Vehicular Technology_, Vol. 70, No. 12, pp. 13413 - 13417, Dec. 2021.       
 DOI: [10.1109/TVT.2021.3120516](https://doi.org/10.1109/TVT.2021.3120516){:target="_blank"}       
 
-9. Jungjoo Lee, Taeseok Oh, __Jihwan Moon__, Changick Song, Byeongsi Lee, Inkyu Lee        
+9. Jungjoo Lee, Taeseok Oh, __Jihwan Moon__, Changick Song, Byeongsi Lee, Inkyu Lee,        
 __"Hybrid Beamforming with Variable RF Attenuator for Multi-user mmWave Systems,"__     
 _IEEE Transactions on Vehicular Technology_, Vol. 69, No. 8, pp. 9131 - 9134, Aug. 2020.       
 DOI: [10.1109/TVT.2020.2996193](https://doi.org/10.1109/TVT.2020.2996193){:target="_blank"}       
 
-8. __Jihwan Moon__, Osvaldo Simeone, Seok-Hwan Park and Inkyu Lee      
+8. __Jihwan Moon__, Osvaldo Simeone, Seok-Hwan Park and Inkyu Lee,      
 __"Online Reinforcement Learning of X-Haul Content Delivery Mode in Fog Radio Access Networks,"__       
 _IEEE Signal Processing Letters_, Vol. 26, No. 10, pp. 1451 - 1455, Oct. 2019.        
 DOI: [10.1109/LSP.2019.2932193](https://doi.org/10.1109/LSP.2019.2932193){:target="_blank"}       

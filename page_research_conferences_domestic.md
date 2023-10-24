@@ -11,6 +11,14 @@ hide_footer: true
 
 # Domestic conferences
 
+13. Refat Khan, __Jihwan Moon__,      
+__"A Channel Uncertainty-Aware Covert Transmission for a Disguised Full-Duplex Device,"__     
+2023 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 27 Oct. 2023.     
+
+12. MD Sakil Hasan, __Jihwan Moon__,      
+__"Amplify-and-Forward Relay-Aided Covert Communications,"__     
+2023 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 27 Oct. 2023.     
+
 11. Refat Khan, __Jihwan Moon__,      
 __"Disguised Full-Duplex Transmission-Aided Covert Communications,"__     
 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     

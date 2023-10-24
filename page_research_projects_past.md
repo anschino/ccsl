@@ -11,6 +11,10 @@ hide_footer: true
 
 # Past projects
 
+5. Apr. 2023 - Oct. 2023.       
+__"Internet-of-Things Wireless Transport Protocol (IoT 무선 통신 전송 계층 프로토콜 연구)"__     
+_The Affiliated Institute of Electronics and Telecommunications Research Institute (ETRI)_ _(한국전자통신연구원 부설연구소)_        
+
 4. Apr. 2022. - Dec. 2022.       
 __"Rate-Splitting Multiple Access (RSMA) Assisted Full-Duplex Communications in Cell-Free Massive Multi-Input Multi-Ouput (MIMO) Systems (전송률분할 다중접속 기반 셀자유 초거대 다중입출력 전이중 전송시스템 연구개발)"__     
 with [WiSL](https://sites.google.com/site/hnucsp/home){:target="_blank"} at Hanbat National University       
