@@ -5,7 +5,7 @@ description: This is the profile
 #product_code: ABC124
 layout: profile
 #image: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
-image: /img/img_Jihwan_Moon.jpg
+image: /img/img_Jihwan_Moon.jpeg
 #price: £1.99 + VAT
 #features:
 #    - label: Great addition to any home
