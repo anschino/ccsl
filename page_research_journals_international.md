@@ -12,13 +12,14 @@ hide_footer: true
 # International journals
 
 16. __Jihwan Moon__,        
-__"Performance Comparison of Relay-Based Covert Communications: DF, CF and AF,"__     
-accepted for _Sensors_.      
-
-15. __Jihwan Moon__,        
 __"Covert Communications in a Compress-and-Forward Relay System,"__     
 accepted for _ICT Express_.      
 DOI: [10.1016/j.icte.2023.08.005](https://doi.org/10.1016/j.icte.2023.08.005){:target="_blank"}     
+
+15. __Jihwan Moon__,        
+__"Performance Comparison of Relay-Based Covert Communications: DF, CF and AF,"__     
+_Sensors_, vol. 23, no. 21, p. 8747, Oct. 2023.    
+DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}       
 
 14. __Jihwan Moon__,        
 __"Disguised Full-Duplex Covert Communications,"__     
