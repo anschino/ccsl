@@ -13,14 +13,15 @@ hide_footer: true
 
 3. __Jihwan Moon__        
 __"The Channel Uncertainty of Warden on Disguised Full-Duplex Covert Communications"__     
-accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_.     
+_The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Nov. 2023.        
+DOI: [10.7840/kics.2023.48.11.1365](http://doi.org/10.7840/kics.2023.48.11.1365){:target="_blank"}      
 
 2. __Jihwan Moon__        
 __"Optimization of Wireless Surveillance Systems with the Polyblock Outer Approximation Algorithm,"__     
 _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Sep. 2021.        
-DOI: [http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10605135](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10605135){:target="_blank"}  
+DOI: [10.7840/kics.2021.46.9.1403](http://doi.org/10.7840/kics.2021.46.9.1403){:target="_blank"}  
 
 1. __Jihwan Moon__        
 __"Covert Communications in Time Division Multiple Access Networks,"__     
 _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Sep. 2021.        
-DOI: [http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10605136](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10605136){:target="_blank"}  
+DOI: [10.7840/kics.2021.46.9.1407](http://doi.org/10.7840/kics.2021.46.9.1407){:target="_blank"}  
