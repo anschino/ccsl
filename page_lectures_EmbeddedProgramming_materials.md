@@ -13,5 +13,7 @@ hide_footer: true
 
 ### Materials
 
-Please check out the [Hanbat University LMS](https://cyber.hanbat.ac.kr){:target="_blank"}
+Please check out the [Hanbat University LMS](https://drive.google.com/drive/folders/1aaBcCNmCcwvNpf0O_1K7qxPcTp9ctHNm?usp=sharing){:target="_blank"}
+
+
 
