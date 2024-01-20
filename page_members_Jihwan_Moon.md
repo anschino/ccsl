@@ -36,7 +36,7 @@ show_sidebar: false
 * Mar. 2022 - present
   * Assistant professor, Department of Mobile Convergence Engineering, [Hanbat National University](https://www.hanbat.ac.kr/), the Republic of Korea
 * Mar. 2021 - Feb. 2022
-  * Head of Major in Information Security, Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea
+  * Chair of Major in Information Security, Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea
 * Sep. 2020 - Feb. 2022
   * Assistant professor, Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea
 * Jul. 2019 - Aug. 2020

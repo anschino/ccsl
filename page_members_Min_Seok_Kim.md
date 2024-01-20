@@ -23,7 +23,7 @@ show_sidebar: false
 --------------------------------------------------
 
 #### Education
-* Mar. 2018	-	present
+* Mar. 2018	-	Feb. 2024
   * Bachelor of engineering (major: Information and Communication Engineering)
   * Department of Information and Communication Engineering, [Chosun University](http://www.chosun.ac.kr/){:target="_blank"}, the Republic of Korea
 

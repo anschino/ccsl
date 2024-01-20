@@ -11,6 +11,14 @@ hide_footer: true
 
 # Domestic conferences
 
+15. Refat Khan, __Jihwan Moon__,      
+__"Covert Communications for a Disguised Full-Duplex Vehicle With Channel Distribution Information,"__     
+2024 Winter Conference of the Korea Information and Communications Society (KICS), 31 Jan. - 02 Feb. 2024.       
+
+14. MD Sakil Hasan, __Jihwan Moon__,      
+__"Amplify-and-Forward Relay-Aided Vehicular Covert Communications,"__     
+2024 Winter Conference of the Korea Information and Communications Society (KICS), 31 Jan. - 02 Feb. 2024.       
+
 13. Refat Khan, __Jihwan Moon__,      
 __"A Channel Uncertainty-Aware Covert Transmission for a Disguised Full-Duplex Device,"__     
 2023 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 27 Oct. 2023.     
