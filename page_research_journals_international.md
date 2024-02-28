@@ -33,7 +33,7 @@ DOI: [10.1109/TVT.2022.3195529](https://doi.org/10.1109/TVT.2022.3195529){:targe
 
 12. Seunghwan Baek, __Jihwan Moon__, Junhee Park, Changick Song and Inkyu Lee,        
 __"Real-time Machine Learning Methods for Two-way End-to-End Wireless Communication Systems,"__     
-_IEEE Internet of Things Journal_, Vol. 9, No. 22, pp. 22983 - 22992, 15 Nov. 2022     
+_IEEE Internet of Things Journal_, Vol. 9, No. 22, pp. 22983 - 22992, 15 Nov. 2022.     
 DOI: [10.1109/JIOT.2022.3186811](https://doi.org/10.1109/JIOT.2022.3186811){:target="_blank"}       
 
 11. Hongju Lee, __Jihwan Moon__, Changick Song, Sang Hyun Lee and Inkyu Lee,        

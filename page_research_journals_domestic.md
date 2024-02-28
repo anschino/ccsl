@@ -12,7 +12,7 @@ hide_footer: true
 # Domestic journals
 
 3. __Jihwan Moon__,        
-__"The Channel Uncertainty of Warden on Disguised Full-Duplex Covert Communications"__     
+__"The Channel Uncertainty of Warden on Disguised Full-Duplex Covert Communications,"__     
 _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Nov. 2023.        
 DOI: [10.7840/kics.2023.48.11.1365](http://doi.org/10.7840/kics.2023.48.11.1365){:target="_blank"}      
 

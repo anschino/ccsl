@@ -13,7 +13,7 @@ hide_footer: true
 
 4. Inkyu Lee, Zhilin Fu, __Jihwan Moon__ and Sangwon Hwang,      
 __"무선 통신 시스템에서 라인 패널 코드북 기반 송수신 방법 및 장치 (METHOD AND APPARATUS FOR TRANSMISSION AND RECEPTION BASED ON LINE PANEL CODEBOOK IN WIRELESS COMMUNICATION SYSTEM),"__      
-Patent date: Filed Jan. 03, 2022 (pending) Jan. 03, 2024        
+Patent date: Filed Jan. 03, 2022 (pending) Jan. 03, 2024 (registered)        
 Patent issuer and number: kr 10-2022-0000250 (pending) kr 10-2622249 (registered)       
 
 3. __Jihwan Moon__ and Inkyu Lee,      

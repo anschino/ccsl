@@ -13,8 +13,8 @@ hide_footer: true
 
 3. Inkyu Lee and __Jihwan Moon__,      
 __"협력 재밍과 스푸핑을 이용한 무선 통신 채널 감시 시스템 및 방법 (SYSTEM AND METHOD FOR MONITORING WIRELESS COMMUNICATION CHANNEL USING COOPERATIVE JAMMING AND SPOOFING),"__      
-Patent date: Filed May 21, 2019 (pending), Apr. 30, 2021 (pending), Aug. 08, 2023 (registered)
-Patent issuer and number: PCT/KR2019/006046 (pending), US 17/290,374 (pending), US 11,722,239 (registered)
+Patent date: Filed May 21, 2019 (pending), Apr. 30, 2021 (pending), Aug. 08, 2023 (registered)      
+Patent issuer and number: PCT/KR2019/006046 (pending), US 17/290,374 (pending), US 11,722,239 (registered)      
 
 2. Chanhong Kim, Inkyu Lee, Hoon Lee, __Jihwan Moon__, Tae Seok Oh and Seok Ju Jang,       
 __"APPARATUS AND METHOD FOR PERMUTATION OF BLOCK CODE IN WIRELESS COMMUNICATION SYSTEM,"__      
