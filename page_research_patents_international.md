@@ -21,7 +21,7 @@ __"APPARATUS AND METHOD FOR PERMUTATION OF BLOCK CODE IN WIRELESS COMMUNICATION 
 Patent date: Filed Jun. 29, 2017 (pending) Aug. 28, 2018 (registered)       
 Patent issuer and number: US 15/638,065 (pending) US 10,063,260 (registered)        
 
-1. Inkyu Lee and __Jihwan Moon__,
+1. Inkyu Lee and __Jihwan Moon__,       
 __"METHOD FOR ALLOCATING TRANSFER TIMES IN A WIRELESS POWERED COMMUNICATION NETWORK,"__     
 Patent filed date: Filed Jul. 20, 2018 (pending) Dec. 31, 2019 (registered)     
 Patent issuer and number: US 16/040,897 (pending) US 10,524,276 (registered)        
