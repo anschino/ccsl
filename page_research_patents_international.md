@@ -11,7 +11,7 @@ hide_footer: true
 
 # International patents
 
-4. Inkyu Lee, Zhilin Fu, __Jihwan Moon__ and Sangwon Hwang,     
+4. Inkyu Lee, Zhilin Fu, __Jihwan Moon__, and Sangwon Hwang,     
 __"METHOD AND APPARATUS FOR TRANSMISSION AND RECEPTION BASED ON LINE PANEL CODEBOOK IN WIRELESS COMMUNICATION SYSTEM,"__        
 Patent date: Filed May 24, 2022 (pending), Jan. 09, 2024 (registered)       
 Patent issuer and number: US 17/752,095 (pending), US 11,870,518 (registered)       
@@ -21,7 +21,7 @@ __"SYSTEM AND METHOD FOR MONITORING WIRELESS COMMUNICATION CHANNEL USING COOPERA
 Patent date: Filed May 21, 2019 (pending), Apr. 30, 2021 (pending), Aug. 08, 2023 (registered)      
 Patent issuer and number: PCT/KR2019/006046 (pending), US 17/290,374 (pending), US 11,722,239 (registered)      
 
-2. Chanhong Kim, Inkyu Lee, Hoon Lee, __Jihwan Moon__, Tae Seok Oh and Seok Ju Jang,       
+2. Chanhong Kim, Inkyu Lee, Hoon Lee, __Jihwan Moon__, Tae Seok Oh, and Seok Ju Jang,       
 __"APPARATUS AND METHOD FOR PERMUTATION OF BLOCK CODE IN WIRELESS COMMUNICATION SYSTEM,"__      
 Patent date: Filed Jun. 29, 2017 (pending), Aug. 28, 2018 (registered)       
 Patent issuer and number: US 15/638,065 (pending), US 10,063,260 (registered)        

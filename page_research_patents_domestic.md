@@ -11,7 +11,7 @@ hide_footer: true
 
 # Domestic patents
 
-4. Inkyu Lee, Zhilin Fu, __Jihwan Moon__ and Sangwon Hwang,      
+4. Inkyu Lee, Zhilin Fu, __Jihwan Moon__, and Sangwon Hwang,      
 __"무선 통신 시스템에서 라인 패널 코드북 기반 송수신 방법 및 장치 (METHOD AND APPARATUS FOR TRANSMISSION AND RECEPTION BASED ON LINE PANEL CODEBOOK IN WIRELESS COMMUNICATION SYSTEM),"__      
 Patent date: Filed Jan. 03, 2022 (pending), Jan. 03, 2024 (registered)        
 Patent issuer and number: KR 10-2022-0000250 (pending), KR 10-2622249 (registered)       
@@ -26,7 +26,7 @@ __"무선 전력 전송 통신에서 전송 시간 할당 방법 (METHOD FOR ALL
 Patent filed date: Filed Nov. 23, 2017 (pending), Jul. 11, 2019 (registered)     
 Patent issuer and number: KR 10-2017-0157179 (pending), KR 10-2001316 (registered)       
 
-1. Chanhong Kim, Inkyu Lee, Hoon Lee, __Jihwan Moon__, Tae Seok Oh and Seok Ju Jang,       
+1. Chanhong Kim, Inkyu Lee, Hoon Lee, __Jihwan Moon__, Tae Seok Oh, and Seok Ju Jang,       
 __"무선 통신 시스템에서 블록 코드의 퍼뮤테이션을 위한 장치 및 방법 (APPARATUS AND METHOD FOR PERMUTATION OF BLOCK CODE IN WIRELESS COMMUNICATION SYSTEM),"__        
 Patent filed date: Filed Jun. 29, 2016 (pending), Mar. 17, 2023 (registered)     
 Patent issuer and number: KR 10-2016-0081778 (pending), KR 10-2512844 (registered)       

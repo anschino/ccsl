@@ -74,22 +74,22 @@ __"Optimization on Power Allocation for Covert Communications in Time Division M
 2022 Summer Conference of the Korea Information and Communications Society (KICS), 22 - 24 Jun. 2022.     
 DOI: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108523](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108523){:target="_blank"}       
 
-4. Zhilin Fu, Sangwon Hwang, __Jihwan Moon__ and Inkyu Lee,      
+4. Zhilin Fu, Sangwon Hwang, __Jihwan Moon__, and Inkyu Lee,      
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
 2021 Winter Conference of the Korea Information and Communications Society (KICS), 03 - 05 Feb. 2021.      
 DOI: [http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547727](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547727){:target="_blank"}     
 
-3. Jeongjoo Lee, Taeseok Oh, __Jihwan Moon__, Byeongsi Lee and Inkyu Lee,      
+3. Jeongjoo Lee, Taeseok Oh, __Jihwan Moon__, Byeongsi Lee, and Inkyu Lee,      
 __"A New Architecture for Hybrid Beamforming in mmWave Systems,"__     
 2019 Summer Conference of the Korea Information and Communications Society (KICS), 19 - 21 Jun. 2019.      
 DOI: [http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09234226](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09234226){:target="_blank"}     
 
-2. Hanjin Kim, Hoon Lee, Seokju Jang, __Jihwan Moon__, Junhee Park and Inkyu Lee,      
+2. Hanjin Kim, Hoon Lee, Seokju Jang, __Jihwan Moon__, Junhee Park, and Inkyu Lee,      
 __"Maximization of Minimum Rate for Wireless Powered Communication Networks in Interference Channel,"__     
 2018 Winter Conference of the Korea Information and Communications Society (KICS), 17 - 19 Jan. 2018.      
 DOI: [http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07368824](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07368824){:target="_blank"}       
 
-1. Younghyun Jeon, Seok-Hwan Park, Changick Song, __Jihwan Moon__, Seungjoo Maeng and Inkyu Lee,       
+1. Younghyun Jeon, Seok-Hwan Park, Changick Song, __Jihwan Moon__, Seungjoo Maeng, and Inkyu Lee,       
 __"Fronthaul Designs With Self-Interference Mitigation for Full-Duplex Cloud Radio Access Networks,"__        
 2017 Winter Conference of the Korea Information and Communications Society (KICS), 18 - 20 Jan. 2017.      
 DOI: [http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07125895](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07125895){:target="_blank"}       
