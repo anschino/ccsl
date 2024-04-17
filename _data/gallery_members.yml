@@ -43,6 +43,28 @@
       link_cv: 
       link_internal: true
       ratio: is-128x128
+    
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: YeHyun Jo
+      position: Undergraduate Researcher
+      email: gkfh567 [at] naver [dot] com
+      link_cv: 
+      link_internal: true
+      ratio: is-128x128
+    
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: SuAn Lee
+      position: Undergraduate Researcher
+      email: 20231022 [at] edu [dot] hanbat [dot] ac [dot] kr
+      link_cv: 
+      link_internal: true
+      ratio: is-128x128
 
 - title: Past members
   images:

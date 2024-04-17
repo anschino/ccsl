@@ -11,9 +11,13 @@ hide_footer: true
 
 # International conferences
 
+10. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee     
+__"Covertness Analysis for the Covert Communications in Multi-antenna Two-way Relay Systems,"__      
+_submitted to_ 2024 The 3rd International Conference on M<sup>3</sup> IT Convergence (ICMIC), Kuala Lumpur, Malaysia, 7 - 9 Aug. 2024.      
+
 9. __Jihwan Moon__ and Hoon Lee,       
 __"Energy Efficiency Maximization for Multi-LEO Satellite Networks,"__      
-_in preparation for_ 2024 Fourteenth International Conference on Ubiquitous and Future Networks (ICUFN), Budapest, Hungary, 2 - 5 Jul. 2024.      
+_submitted to_ 2024 Fourteenth International Conference on Ubiquitous and Future Networks (ICUFN), Budapest, Hungary, 2 - 5 Jul. 2024.      
 
 8. Zhilin Fu, Boya Ju, __Jihwan Moon__, Sangwon Hwang, and Inkyu Lee,       
 __"Covert Communications in Two-way Relay Systems with Energy Harvesting,"__      
