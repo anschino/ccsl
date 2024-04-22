@@ -17,17 +17,17 @@ _submitted for possible publication_
 
 16. __Jihwan Moon__,        
 __"Covert Communications in a Compress-and-Forward Relay System,"__     
-accepted for _ICT Express_      
+_ICT Express_, Vol. 10, No. 2, pp. 412 - 417, Apr. 2024.        
 DOI: [10.1016/j.icte.2023.08.005](https://doi.org/10.1016/j.icte.2023.08.005){:target="_blank"}     
 
 15. __Jihwan Moon__,        
 __"Performance Comparison of Relay-Based Covert Communications: DF, CF and AF,"__     
-_Sensors_, vol. 23, no. 21, p. 8747, Oct. 2023.    
+_Sensors_, Vol. 23, No. 21, p. 8747, Oct. 2023.    
 DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}       
 
 14. __Jihwan Moon__,        
 __"Disguised Full-Duplex Covert Communications,"__     
-_Sensors_, vol. 23, no. 14, p. 6515, Jul. 2023.     
+_Sensors_, Vol. 23, No. 14, p. 6515, Jul. 2023.     
 DOI: [10.3390/s23146515](https://doi.org/10.3390/s23146515){:target="_blank"}     
 
 13. Zhilin Fu, Sangwon Hwang, __Jihwan Moon__, Haibao Ren, and Inkyu Lee,        
