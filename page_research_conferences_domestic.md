@@ -26,7 +26,7 @@ __"Transmit Power Optimization on Decode-and-Forward-Based Covert Communications
 15. Refat Khan and __Jihwan Moon__,      
 __"Covert Communications for a Disguised Full-Duplex Vehicle With Channel Distribution Information,"__     
 2024 Winter Conference of the Korea Information and Communications Society (KICS), 31 Jan. - 02 Feb. 2024.       
-<span style="color:red">Outstanding paper award</span>      
+<span style="color:red">Best paper award</span>      
 
 14. MD Sakil Hasan and __Jihwan Moon__,      
 __"Amplify-and-Forward Relay-Aided Vehicular Covert Communications,"__     
