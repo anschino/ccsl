@@ -5,7 +5,7 @@
       alt: The alt text for the image
       #description: |-
       name: Jihwan Moon
-      position: Assistant Professor
+      position: Assistant professor
       email: anschino [at] staff [dot] hanbat [dot] ac [dot] kr
       link_cv: page_members_Jihwan_Moon
       link_internal: true
@@ -16,7 +16,7 @@
       alt: The alt text for the image
       #description: |-
       name: MD Sakil Hasan
-      position: Master student
+      position: Master student (2022 - present)
       email: sakilhasanpau [at] gmail [dot] com
       link_cv: 
       link_internal: true
@@ -27,19 +27,8 @@
       alt: The alt text for the image
       #description: |-
       name: Refat Khan
-      position: Master student
+      position: Master student (2022 - present)
       email: refatkhanuits [at] gmail [dot] com
-      link_cv: 
-      link_internal: true
-      ratio: is-128x128
-
-    - link: /img/img_Member.jpg
-      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
-      alt: The alt text for the image
-      #description: |-
-      name: Juchan Kim
-      position: Undergraduate Researcher
-      email: jckim229 [at] gmail [dot] com
       link_cv: 
       link_internal: true
       ratio: is-128x128
@@ -49,7 +38,7 @@
       alt: The alt text for the image
       #description: |-
       name: YeHyun Jo
-      position: Undergraduate Researcher
+      position: Undergraduate researcher (2024 - present)
       email: gkfh567 [at] naver [dot] com
       link_cv: 
       link_internal: true
@@ -60,7 +49,7 @@
       alt: The alt text for the image
       #description: |-
       name: SuAn Lee
-      position: Undergraduate Researcher
+      position: Undergraduate researcher (2024 - present)
       email: 20231022 [at] edu [dot] hanbat [dot] ac [dot] kr
       link_cv: 
       link_internal: true
@@ -72,10 +61,10 @@
       #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
       alt: The alt text for the image
       #description: |-
-      name: Gyubin Kim
-      position: Undergraduate Researcher
-      email: kgr271329 [at] gmail [dot] com
-      link_cv: page_members_Gyubin_Kim
+      name: Juchan Kim
+      position: Undergraduate researcher (2022 - 2024)
+      email: jckim229 [at] gmail [dot] com
+      link_cv: 
       link_internal: true
       ratio: is-128x128
 
@@ -84,7 +73,7 @@
       alt: The alt text for the image
       #description: |-
       name: Suji Lee
-      position: Undergraduate Researcher
+      position: Undergraduate researcher (2021 - 2022)
       email: suji20 [at] chosun [dot] kr
       link_cv: page_members_Suji_Lee
       link_internal: true
@@ -95,8 +84,19 @@
       alt: The alt text for the image
       #description: |-
       name: Min Seok Kim
-      position: Undergraduate Researcher
+      position: Undergraduate researcher (2022)
       email: wntkdnj1 [at] naver [dot] com
       link_cv: page_members_Min_Seok_Kim
+      link_internal: true
+      ratio: is-128x128
+    
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: Gyubin Kim
+      position: Undergraduate researcher (2021)
+      email: kgr271329 [at] gmail [dot] com
+      link_cv: page_members_Gyubin_Kim
       link_internal: true
       ratio: is-128x128

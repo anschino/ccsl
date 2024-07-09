@@ -47,6 +47,15 @@ show_sidebar: false
   * Visiting research student, [King’s College London](https://www.kcl.ac.uk/){:target="_blank"} (advisor: [Prof. Osvaldo Simeone](https://nms.kcl.ac.uk/osvaldo.simeone/index.htm){:target="_blank"}), the United Kingdom
 
 #### Awards
+* Jul. 2024
+  * 2024 The 15th International Conference on Ubiquitous and Future Networks (ICUFN) Best paper runner-up award
+  * Title: Energy Efficiency Maximization for Multi-LEO Satellite Networks
+* Jan. 2024
+  * 2024 Winter Conference of the Korea Information and Communications Society (KICS) Best paper award
+  * Title: Covert Communications for a Disguised Full-Duplex Vehicle With Channel Distribution Information
+* Oct. 2023
+  * 2023 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES) Outstanding paper award
+  * Title: A Channel Uncertainty-Aware Covert Transmission for a Disguised Full-Duplex Device
 * Feb. 2019
   * Brain Korea 21+ outstanding student award
 * Feb. 2019
