@@ -17,7 +17,7 @@ _to be presented in_ 2024 The 3rd International Conference on M<sup>3</sup> IT C
 
 9. __Jihwan Moon__ and Hoon Lee,       
 __"Energy Efficiency Maximization for Multi-LEO Satellite Networks,"__      
-_to be presented in_ 2024 Fourteenth International Conference on Ubiquitous and Future Networks (ICUFN), Budapest, Hungary, 2 - 5 Jul. 2024.      
+2024 Fourteenth International Conference on Ubiquitous and Future Networks (ICUFN), Budapest, Hungary, 2 - 5 Jul. 2024.      
 <span style="color:red">Best paper runner-up award</span>      
 
 8. Zhilin Fu, Boya Ju, __Jihwan Moon__, Sangwon Hwang, and Inkyu Lee,       
