@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+18. __Jihwan Moon__     
+__"Covert Communications In a Hybrid DF/AF Relay System,"__     
+_submitted for possible publication_        
+
 17. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee     
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
 _submitted for possible publication_        

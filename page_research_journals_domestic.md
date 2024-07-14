@@ -11,6 +11,10 @@ hide_footer: true
 
 # Domestic journals
 
+4. Refat Khan, and __Jihwan Moon__,        
+__"Detection Error Probability Maximization for Disguised Full-Duplex Covert Communications,"__     
+_submitted for possible publication_        
+
 3. __Jihwan Moon__,        
 __"The Channel Uncertainty of Warden on Disguised Full-Duplex Covert Communications,"__     
 _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Nov. 2023.        
