@@ -11,7 +11,7 @@ hide_footer: true
 
 # International journals
 
-18. __Jihwan Moon__     
+18. __Jihwan Moon__,        
 __"Covert Communications In a Hybrid DF/AF Relay System,"__     
 _submitted for possible publication_        
 
