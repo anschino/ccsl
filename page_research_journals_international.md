@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+19. Suho Shin, Prince Anokye, Hoon Lee, __Jihwan Moon__, Kyoung-Jae Lee,       
+__"Balancing Available Energy Distribution in mMIMO SWIPT Sensor Networks With Low Resolution ADC/DAC,"__       
+_submitted for possible publication_        
+
 18. __Jihwan Moon__,        
 __"Covert Communications In a Hybrid DF/AF Relay System,"__     
 _submitted for possible publication_        
