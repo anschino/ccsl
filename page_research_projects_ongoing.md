@@ -11,6 +11,11 @@ hide_footer: true
 
 # Ongoing projects
 
+3. Jul. 2024. - Dec. 2031.      
+__"ICT Research Center for 6G Wireless Communications Standardization (6G 무선통신 글로컬 연구센터)"__     
+_Information Technology Research Center (ITRC)_ _(대학정보통신연구센터협의회)_     
+[WiSL](https://sites.google.com/site/hnucsp/home){:target="_blank"} at Hanbat National University.      
+
 2. Dec. 2022 - Nov. 2028.       
 __"Space-Layer Intelligent Communication Network Laboratory (우주계층 지능통신망 특화연구실)"__     
 _Korea Research Institute for defense Technology planning and advancement (KRIT)_  _(국방기술진흥연구소)_     

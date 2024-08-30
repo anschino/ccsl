@@ -11,9 +11,13 @@ hide_footer: true
 
 # International conferences
 
-10. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee     
+11. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, and Inkyu Lee,        
+__"Beamforming Optimization for Time Domain Integrated Sensing and Communication Systems,"__      
+_to be presented in_ 2024 The 15th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 16 - 18 Oct. 2024.      
+
+10. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covertness Analysis for the Covert Communications in Multi-antenna Two-way Relay Systems,"__      
-_to be presented in_ 2024 The 3rd International Conference on M<sup>3</sup> IT Convergence (ICMIC), Kuala Lumpur, Malaysia, 7 - 9 Aug. 2024.      
+2024 The 3rd International Conference on M<sup>3</sup> IT Convergence (ICMIC), Kuala Lumpur, Malaysia, 7 - 9 Aug. 2024.      
 
 9. __Jihwan Moon__ and Hoon Lee,       
 __"Energy Efficiency Maximization for Multi-LEO Satellite Networks,"__      
@@ -22,7 +26,7 @@ __"Energy Efficiency Maximization for Multi-LEO Satellite Networks,"__
 
 8. Zhilin Fu, Boya Ju, __Jihwan Moon__, Sangwon Hwang, and Inkyu Lee,       
 __"Covert Communications in Two-way Relay Systems with Energy Harvesting,"__      
-2022 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 19 - 21 Oct. 2022.      
+2022 The 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 19 - 21 Oct. 2022.      
 DOI: [10.1109/ICTC55196.2022.9952701](https://doi.org/10.1109/ICTC55196.2022.9952701){:target="_blank"}       
 
 7. __Jihwan Moon__, Sang Hyun Lee, Hoon Lee, and Inkyu Lee,       
@@ -52,7 +56,7 @@ DOI: [10.1109/ICC.2018.8422944](https://doi.org/10.1109/ICC.2018.8422944){:targe
 
 2. __Jihwan Moon__ and Inkyu Lee,      
 __"Secrecy Performance of Wireless Powered Communication Network,"__        
-The 32nd International Technical Conference on Circuits, Systems, Computers, and Communications (ITC-CSCC), Busan, Korea, 2 - 5 Jul. 2017.      
+2017 The 32nd International Technical Conference on Circuits, Systems, Computers, and Communications (ITC-CSCC), Busan, Korea, 2 - 5 Jul. 2017.      
 
 1. __Jihwan Moon__, Hoon Lee, Changick Song, and Inkyu Lee,     
 __"Secrecy Outage Minimization for Wireless Powered Communication Networks With an Energy Harvesting Jammer,"__     

@@ -11,17 +11,17 @@ hide_footer: true
 
 # International journals
 
-19. Suho Shin, Prince Anokye, Hoon Lee, __Jihwan Moon__, Kyoung-Jae Lee,       
-__"Balancing Available Energy Distribution in mMIMO SWIPT Sensor Networks With Low Resolution ADC/DAC,"__       
-_submitted for possible publication_        
-
-18. __Jihwan Moon__,        
+19. __Jihwan Moon__,        
 __"Covert Communications In a Hybrid DF/AF Relay System,"__     
 _submitted for possible publication_        
 
-17. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee     
+18. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
 _submitted for possible publication_        
+
+17. Suho Shin, Prince Anokye, Hoon Lee, __Jihwan Moon__, and Kyoung-Jae Lee,        
+__"Balancing Available Energy Distribution in mMIMO SWIPT Sensor Networks With Low Resolution ADC/DAC,"__       
+_accepted for IEEE Access_        
 
 16. __Jihwan Moon__,        
 __"Covert Communications in a Compress-and-Forward Relay System,"__     

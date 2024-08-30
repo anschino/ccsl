@@ -11,13 +11,13 @@ hide_footer: true
 
 # Domestic journals
 
-5. Md Sakil Hasan, and __Jihwan Moon__,        
-__"Detection Error Probability Maximization for Relay-Based Covert Communications,"__     
-_submitted for possible publication_        
-
-4. Refat Khan, and __Jihwan Moon__,        
+5. Refat Khan, and __Jihwan Moon__,        
 __"Detection Error Probability Maximization for Disguised Full-Duplex Covert Communications,"__     
-_submitted for possible publication_        
+_accepted for The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_      
+
+4. Md Sakil Hasan, and __Jihwan Moon__,        
+__"Detection Error Probability Maximization for Relay-Based Covert Communications,"__     
+_accepted for The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_      
 
 3. __Jihwan Moon__,        
 __"The Channel Uncertainty of Warden on Disguised Full-Duplex Covert Communications,"__     
