@@ -105,8 +105,8 @@ __"Joint Designs of Fronthaul Compression and Precoding for Full-duplex Cloud Ra
 _IEEE Wireless Communications Letters_, Vol. 5, No. 6, pp. 632 - 635, Dec. 2016.      
 DOI: [10.1109/LWC.2016.2609410](https://doi.org/10.1109/LWC.2016.2609410){:target="_blank"}       
 
-            | JCR YEAR | JIF | JIF RANK | JIF QUARTILE | JIF PERCENTILE | CATEGORY |
-            |:---:|:---:|:---:|:---:|:---:|:---:|
-            | 2016 | 2.449 | 47/146 | Q2 | 68.15 | COMPUTER SCIENCE, INFORMATION SYSTEMS |
+    | JCR YEAR | JIF | JIF RANK | JIF QUARTILE | JIF PERCENTILE | CATEGORY |
+    |:---:|:---:|:---:|:---:|:---:|:---:|
+    | 2016 | 2.449 | 47/146 | Q2 | 68.15 | COMPUTER SCIENCE, INFORMATION SYSTEMS |
 
 			
