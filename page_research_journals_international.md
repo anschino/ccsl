@@ -22,6 +22,7 @@ _submitted for possible publication_
 17. Suho Shin, Prince Anokye, Hoon Lee, __Jihwan Moon__, and Kyoung-Jae Lee,        
 __"Balancing Available Energy Distribution in mMIMO SWIPT Sensor Networks With Low Resolution ADC/DAC,"__       
 _accepted for IEEE Access_        
+DOI: [10.1109/ACCESS.2024.3456800](https://doi.org/10.1109/ACCESS.2024.3456800){:target="_blank"}     
 
 16. __Jihwan Moon__,        
 __"Covert Communications in a Compress-and-Forward Relay System,"__     
@@ -103,3 +104,9 @@ DOI: [10.1109/TCOMM.2016.2623627](https://doi.org/10.1109/TCOMM.2016.2623627){:t
 __"Joint Designs of Fronthaul Compression and Precoding for Full-duplex Cloud Radio Access Networks,"__     
 _IEEE Wireless Communications Letters_, Vol. 5, No. 6, pp. 632 - 635, Dec. 2016.      
 DOI: [10.1109/LWC.2016.2609410](https://doi.org/10.1109/LWC.2016.2609410){:target="_blank"}       
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| JCR YEAR | JIF | JIF RANK | JIF QUARTILE | JIF PERCENTILE | CATEGORY |
+| 2016 | 2.449 | 47/146 | Q2 | 68.15 | COMPUTER SCIENCE, INFORMATION SYSTEMS |
+
+			
