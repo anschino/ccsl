@@ -100,6 +100,12 @@ _IEEE Transactions on Communications_, Vol. 65, No. 2, pp. 764 - 774, Feb. 2017.
 <span style="color:red">Most downloaded paper in Nov. 2016</span>      
 DOI: [10.1109/TCOMM.2016.2623627](https://doi.org/10.1109/TCOMM.2016.2623627){:target="_blank"}     
 
+
+    |  |  |  |  |  |  |
+    |:---:|:---:|:---:|:---:|:---:|:---:|
+    | YEAR | CATEGORY | JIF | RANK | QUARTILE | PERCENTILE |
+    | 2017 | TELECOMMUNICATIONS | 4.671 | 9/87 | Q1 | 90.23 |
+
 1. Younghyun Jeon, Seok-Hwan Park, Changick Song, __Jihwan Moon__, Seungjoo Maeng, and Inkyu Lee,       
 __"Joint Designs of Fronthaul Compression and Precoding for Full-duplex Cloud Radio Access Networks,"__     
 _IEEE Wireless Communications Letters_, Vol. 5, No. 6, pp. 632 - 635, Dec. 2016.      
@@ -107,7 +113,7 @@ DOI: [10.1109/LWC.2016.2609410](https://doi.org/10.1109/LWC.2016.2609410){:targe
 
     |  |  |  |  |  |  |
     |:---:|:---:|:---:|:---:|:---:|:---:|
-    | JCR YEAR | JIF | JIF RANK | JIF QUARTILE | JIF PERCENTILE | CATEGORY |
-    | 2016 | 2.449 | 47/146 | Q2 | 68.15 | COMPUTER SCIENCE, INFORMATION SYSTEMS |
+    | YEAR | CATEGORY | JIF | RANK | QUARTILE | PERCENTILE |
+    | 2016 | COMPUTER SCIENCE, INFORMATION SYSTEMS | 2.449 | 47/146 | Q2 | 68.15 |
 
 			
