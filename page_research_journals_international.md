@@ -33,16 +33,16 @@ DOI: [10.1016/j.icte.2023.08.005](https://doi.org/10.1016/j.icte.2023.08.005){:t
 __"Performance Comparison of Relay-Based Covert Communications: DF, CF and AF,"__     
 _Sensors_, Vol. 23, No. 21, p. 8747, Oct. 2023.    
 DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}       
-<details>
+    <details>
 
-<summary>Click me</summary>
+        <summary>Click me</summary>
 
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Row 1    | Row 1    |
-| Row 2    | Row 2    |
-  
-</details>
+            | Header 1 | Header 2 |
+            | -------- | -------- |
+            | Row 1    | Row 1    |
+            | Row 2    | Row 2    |
+
+    </details>
 
     | Year | Category | JIF | Rank | Quartile | Percentile |
     |:---:|:---:|:---:|:---:|:---:|:---:|
