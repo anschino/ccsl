@@ -45,18 +45,21 @@ DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}
             </p>
     </details>
 
-    | Year | Category | JIF | Rank | Quartile | Percentile |
-    |:---:|:---:|:---:|:---:|:---:|:---:|
-    | 2023 | CHEMISTRY, ANALYTICAL | 3.4 | 34/106 | Q2 | 68.4 |
-
 14. __Jihwan Moon__,        
 __"Disguised Full-Duplex Covert Communications,"__     
 _Sensors_, Vol. 23, No. 14, p. 6515, Jul. 2023.     
 DOI: [10.3390/s23146515](https://doi.org/10.3390/s23146515){:target="_blank"}     
-
-    | Year | Category | JIF | Rank | Quartile | Percentile |
-    |:---:|:---:|:---:|:---:|:---:|:---:|
-    | 2023 | CHEMISTRY, ANALYTICAL | 3.4 | 34/106 | Q2 | 68.4 |
+    <details>
+        <summary>More infomation</summary>
+            <p>
+            JIF: 3.4<br>
+            Year: 2023<br>
+            Category: CHEMISTRY, ANALYTICAL<br>
+            Rank: 34/106<br>
+            Quartile: Q2<br>
+            Percentile: 68.4
+            </p>
+    </details>
 
 13. Zhilin Fu, Sangwon Hwang, __Jihwan Moon__, Haibao Ren, and Inkyu Lee,        
 __"A Codebook Design for FD-MIMO Systems with Multi-Panel Array,"__     
