@@ -35,12 +35,14 @@ _Sensors_, Vol. 23, No. 21, p. 8747, Oct. 2023.
 DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}       
     <details>
         <summary>More infomation</summary>
-        <p>JIF: 3.4</p>
-        <p>Year: 2023</p>
-        <p>Category: CHEMISTRY, ANALYTICAL</p>
-        <p>Rank: 34/106</p>
-        <p>Quartile: Q2</p>
-        <p>Percentile: 68.4</p>
+            <p>
+            JIF: 3.4<br>
+            Year: 2023<br>
+            Category: CHEMISTRY, ANALYTICAL<br>
+            Rank: 34/106<br>
+            Quartile: Q2<br>
+            Percentile: 68.4
+            </p>
     </details>
 
     | Year | Category | JIF | Rank | Quartile | Percentile |
