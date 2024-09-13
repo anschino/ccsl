@@ -36,10 +36,10 @@ DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}
     <details>
         <summary>More information</summary>
 
-            | Year | Category | JIF | Rank | Quartile | Percentile |
-            |:---:|:---:|:---:|:---:|:---:|:---:|
-            | 2023 | CHEMISTRY, ANALYTICAL | 3.4 | 34/106 | Q2 | 68.4 |
-            
+        | Year | Category | JIF | Rank | Quartile | Percentile |
+        |:---:|:---:|:---:|:---:|:---:|:---:|
+        | 2023 | CHEMISTRY, ANALYTICAL | 3.4 | 34/106 | Q2 | 68.4 |
+
     </details>
 
     | Year | Category | JIF | Rank | Quartile | Percentile |
