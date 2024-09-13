@@ -34,14 +34,13 @@ __"Performance Comparison of Relay-Based Covert Communications: DF, CF and AF,"_
 _Sensors_, Vol. 23, No. 21, p. 8747, Oct. 2023.    
 DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}       
     <details>
-
-        <summary>Click me</summary>
-
-            | Header 1 | Header 2 |
-            | -------- | -------- |
-            | Row 1    | Row 1    |
-            | Row 2    | Row 2    |
-
+        <summary>More infomation</summary>
+        JIF: 3.4        
+        Year: 2023      
+        Category: CHEMISTRY, ANALYTICAL     
+        Rank: 34/106        
+        Quartile: Q2        
+        Percentile: 68.4
     </details>
 
     | Year | Category | JIF | Rank | Quartile | Percentile |
