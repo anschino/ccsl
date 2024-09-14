@@ -23,6 +23,7 @@ __"Covertness Analysis for the Covert Communications in Multi-antenna Two-way Re
 __"Energy Efficiency Maximization for Multi-LEO Satellite Networks,"__      
 2024 The 15th International Conference on Ubiquitous and Future Networks (ICUFN), Budapest, Hungary, 2 - 5 Jul. 2024.      
 <span style="color:red">Best paper runner-up award</span>      
+DOI: [10.1109/ICUFN61752.2024.10625420](https://doi.org/10.1109/ICUFN61752.2024.10625420){:target="_blank"}       
 
 8. Zhilin Fu, Boya Ju, __Jihwan Moon__, Sangwon Hwang, and Inkyu Lee,       
 __"Covert Communications in Two-way Relay Systems with Energy Harvesting,"__      

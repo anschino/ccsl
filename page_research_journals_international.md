@@ -45,6 +45,16 @@ DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}
             Percentile: 68.4
             </span>
             </p>
+            <ul>
+            <span style="color:lightslategray">
+            <li>JIF: 3.4</li>
+            <li>Year: 2023</li>
+            <li>Category: CHEMISTRY, ANALYTICAL</li>
+            <li>Rank: 34/106</li>
+            <li>Quartile: Q2</li>
+            <li>Percentile: 68.4</li>
+            </span>
+            </ul>
     </details>
 
 14. __Jihwan Moon__,        
