@@ -11,8 +11,8 @@ hide_footer: true
 # Recruitment
 
 Currently available positions:
-- Postdoctoral researcher position
-- Undergraduate researcher position
+- Postdoctoral researcher positions
+- Master student positions
 
 We are looking for a member with inquiring spirits and a certain level of experience in
 - Linear algebra
@@ -23,13 +23,11 @@ We are looking for a member with inquiring spirits and a certain level of experi
 
 Cognitive Communications Systems Laboratory (CCSL) delves into the state-of-the-art communications systems that are designed by perception, learning, and adaptive approaches.
 
-Our members specifically pursue the application of cognitive approaches to enhance the performance for a variety of 6G communications systems, optimize "green" networks such as wireless powered communications, protect transmissions of classified information, and proactively monitor suspicious devies for public safety.
+Our members specifically pursue the application of cognitive approaches to enhance the performance for a variety of 6G communications systems, design "green" networks such as energy efficient and wireless powered communications, protect transmissions of classified information, and automate complex resource optimization tasks.
 
 The research themes including but not limited to:
-- 5G/6G communications systems
+- 6G communications systems
+- Energy efficient transmissions
 - Wireless powered communications
 - Physical layer security
-- Cross-layer security
-- Wireless surveillance
-- Proactive eavesdropping
-- Covert communications
+- Adaptive resource allocation strategies
