@@ -33,8 +33,8 @@ DOI: [10.1016/j.icte.2023.08.005](https://doi.org/10.1016/j.icte.2023.08.005){:t
 __"Performance Comparison of Relay-Based Covert Communications: DF, CF and AF,"__     
 _Sensors_, Vol. 23, No. 21, p. 8747, Oct. 2023.    
 DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}       
-    <span style="color:slategray">
     <details>
+        <span style="color:slategray">
         <summary>More infomation</summary>
             <ul>
             <li>JIF: 3.4</li>
@@ -44,8 +44,8 @@ DOI: [10.3390/s23218747](https://doi.org/10.3390/s23218747){:target="_blank"}
             <li>Quartile: Q2</li>
             <li>Percentile: 68.4</li>
             </ul>
+        </span>
     </details>
-    </span>
 
 14. __Jihwan Moon__,        
 __"Disguised Full-Duplex Covert Communications,"__     
