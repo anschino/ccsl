@@ -21,7 +21,7 @@ _submitted for possible publication_
 
 17. Suho Shin, Prince Anokye, Hoon Lee, __Jihwan Moon__, and Kyoung-Jae Lee,        
 __"Balancing Available Energy Distribution in mMIMO SWIPT Sensor Networks With Low Resolution ADC/DAC,"__       
-_accepted for IEEE Access_        
+_IEEE Access_, Vol. 12, pp. 128702-128716, 2024.        
 DOI: [10.1109/ACCESS.2024.3456800](https://doi.org/10.1109/ACCESS.2024.3456800){:target="_blank"}     
 
 16. __Jihwan Moon__,        
