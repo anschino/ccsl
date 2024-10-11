@@ -11,13 +11,14 @@ hide_footer: true
 
 # International journals
 
-19. __Jihwan Moon__,        
-__"Covert Communications In a Hybrid DF/AF Relay System,"__     
-_submitted for possible publication_        
-
-18. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
+19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
 _submitted for possible publication_        
+
+18. __Jihwan Moon__,        
+__"Covert Communications in a Hybrid DF/AF Relay System,"__     
+_Sensors_, Vol. 24, No. 20, p. 6518, Oct. 2024.     
+DOI: [10.3390/s24206518](https://doi.org/10.3390/s24206518){:target="_blank"}       
 
 17. Suho Shin, Prince Anokye, Hoon Lee, __Jihwan Moon__, and Kyoung-Jae Lee,        
 __"Balancing Available Energy Distribution in mMIMO SWIPT Sensor Networks With Low Resolution ADC/DAC,"__       
