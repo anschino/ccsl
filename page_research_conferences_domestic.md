@@ -11,6 +11,15 @@ hide_footer: true
 
 # Domestic conferences
 
+20. Refat Khan and __Jihwan Moon__,      
+__"Active Jamming for AF Relay-Based Covert Communications,"__     
+2024 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 25 Oct. 2024.     
+
+19. MD Sakil Hasan and __Jihwan Moon__,      
+__"Optimal Relay Mode Selection for Two-Hop Covert Communications,"__     
+2024 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 25 Oct. 2024.     
+<span style="color:red">Outstanding paper award</span>      
+
 18. __Jihwan Moon__,      
 __"Relay Protocols for Low-Probability-of-Detection Satellite Communications,"__     
 2024 The 34th Joint Conference on Communications and Information (JCCI), 24 - 26 Apr. 2024.      
