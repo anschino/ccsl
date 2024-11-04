@@ -13,7 +13,7 @@ hide_footer: true
 
 11. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, and Inkyu Lee,        
 __"Beamforming Optimization for Time Domain Integrated Sensing and Communication Systems,"__      
-_to be presented in_ 2024 The 15th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 16 - 18 Oct. 2024.      
+2024 The 15th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 16 - 18 Oct. 2024.      
 
 10. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covertness Analysis for the Covert Communications in Multi-antenna Two-way Relay Systems,"__      

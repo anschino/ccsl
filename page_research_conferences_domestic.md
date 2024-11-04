@@ -15,7 +15,7 @@ hide_footer: true
 __"Active Jamming for AF Relay-Based Covert Communications,"__     
 2024 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 25 Oct. 2024.     
 
-19. MD Sakil Hasan and __Jihwan Moon__,      
+19. Md Sakil Hasan and __Jihwan Moon__,      
 __"Optimal Relay Mode Selection for Two-Hop Covert Communications,"__     
 2024 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 25 Oct. 2024.     
 <span style="color:red">Outstanding paper award</span>      
@@ -28,7 +28,7 @@ __"Relay Protocols for Low-Probability-of-Detection Satellite Communications,"__
 __"Transmit Power Optimization on Disguised Full-Duplex Covert Communications,"__     
 2024 The 34th Joint Conference on Communications and Information (JCCI), 24 - 26 Apr. 2024.      
 
-16. MD Sakil Hasan and __Jihwan Moon__,      
+16. Md Sakil Hasan and __Jihwan Moon__,      
 __"Transmit Power Optimization on Decode-and-Forward-Based Covert Communications,"__     
 2024 The 34th Joint Conference on Communications and Information (JCCI), 24 - 26 Apr. 2024.      
 
@@ -36,10 +36,12 @@ __"Transmit Power Optimization on Decode-and-Forward-Based Covert Communications
 __"Covert Communications for a Disguised Full-Duplex Vehicle With Channel Distribution Information,"__     
 2024 Winter Conference of the Korea Information and Communications Society (KICS), 31 Jan. - 02 Feb. 2024.       
 <span style="color:red">Best paper award</span>      
+DOI: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737129](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737129){:target="_blank"}       
 
 14. MD Sakil Hasan and __Jihwan Moon__,      
 __"Amplify-and-Forward Relay-Aided Vehicular Covert Communications,"__     
 2024 Winter Conference of the Korea Information and Communications Society (KICS), 31 Jan. - 02 Feb. 2024.       
+DOI: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737124](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737124){:target="_blank"}       
 
 13. Refat Khan and __Jihwan Moon__,      
 __"A Channel Uncertainty-Aware Covert Transmission for a Disguised Full-Duplex Device,"__     
