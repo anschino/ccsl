@@ -11,11 +11,11 @@ hide_footer: true
 
 # Domestic conferences
 
-20. Refat Khan and __Jihwan Moon__,      
+20. __Refat Khan__ and __Jihwan Moon__,      
 __"Active Jamming for AF Relay-Based Covert Communications,"__     
 2024 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 25 Oct. 2024.     
 
-19. Md Sakil Hasan and __Jihwan Moon__,      
+19. __Md Sakil Hasan__ and __Jihwan Moon__,      
 __"Optimal Relay Mode Selection for Two-Hop Covert Communications,"__     
 2024 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 25 Oct. 2024.     
 <span style="color:red">Outstanding paper award</span>      
@@ -24,54 +24,54 @@ __"Optimal Relay Mode Selection for Two-Hop Covert Communications,"__
 __"Relay Protocols for Low-Probability-of-Detection Satellite Communications,"__     
 2024 The 34th Joint Conference on Communications and Information (JCCI), 24 - 26 Apr. 2024.      
 
-17. Refat Khan and __Jihwan Moon__,      
+17. __Refat Khan__ and __Jihwan Moon__,      
 __"Transmit Power Optimization on Disguised Full-Duplex Covert Communications,"__     
 2024 The 34th Joint Conference on Communications and Information (JCCI), 24 - 26 Apr. 2024.      
 
-16. Md Sakil Hasan and __Jihwan Moon__,      
+16. __Md Sakil Hasan__ and __Jihwan Moon__,      
 __"Transmit Power Optimization on Decode-and-Forward-Based Covert Communications,"__     
 2024 The 34th Joint Conference on Communications and Information (JCCI), 24 - 26 Apr. 2024.      
 
-15. Refat Khan and __Jihwan Moon__,      
+15. __Refat Khan__ and __Jihwan Moon__,      
 __"Covert Communications for a Disguised Full-Duplex Vehicle With Channel Distribution Information,"__     
 2024 Winter Conference of the Korea Information and Communications Society (KICS), 31 Jan. - 02 Feb. 2024.       
 <span style="color:red">Best paper award</span>      
 DOI: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737129](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737129){:target="_blank"}       
 
-14. MD Sakil Hasan and __Jihwan Moon__,      
+14. __MD Sakil Hasan__ and __Jihwan Moon__,      
 __"Amplify-and-Forward Relay-Aided Vehicular Covert Communications,"__     
 2024 Winter Conference of the Korea Information and Communications Society (KICS), 31 Jan. - 02 Feb. 2024.       
 DOI: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737124](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737124){:target="_blank"}       
 
-13. Refat Khan and __Jihwan Moon__,      
+13. __Refat Khan__ and __Jihwan Moon__,      
 __"A Channel Uncertainty-Aware Covert Transmission for a Disguised Full-Duplex Device,"__     
 2023 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 27 Oct. 2023.     
 <span style="color:red">Outstanding paper award</span>      
 
-12. MD Sakil Hasan and __Jihwan Moon__,      
+12. __MD Sakil Hasan__ and __Jihwan Moon__,      
 __"Amplify-and-Forward Relay-Aided Covert Communications,"__     
 2023 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 27 Oct. 2023.     
 
-11. Refat Khan and __Jihwan Moon__,      
+11. __Refat Khan__ and __Jihwan Moon__,      
 __"Disguised Full-Duplex Transmission-Aided Covert Communications,"__     
 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     
 DOI: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522235](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522235){:target="_blank"}       
 
-10. MD Sakil Hasan and __Jihwan Moon__,      
+10. __MD Sakil Hasan__ and __Jihwan Moon__,      
 __"Compress-and-Forward Relay-Aided Covert Communications,"__     
 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     
 DOI: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522234](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522234){:target="_blank"}       
 
-9. Juchan Kim and __Jihwan Moon__,      
+9. __Juchan Kim__ and __Jihwan Moon__,      
 __"An Empirical Investigation of a Cross Site Scripting (XSS) Attack With Bypassing a Blacklist of a Web Application,"__     
 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 28 - 30 Jun. 2023.     
 DOI: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522584](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522584){:target="_blank"}       
 
-8. Refat Khan and __Jihwan Moon__,      
+8. __Refat Khan__ and __Jihwan Moon__,      
 __"Fronthaul Designs for Proactive Eavesdropping With Relays,"__     
 2022 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 28 Oct. 2022.     
 
-7. MD Sakil Hasan and __Jihwan Moon__,      
+7. __MD Sakil Hasan__ and __Jihwan Moon__,      
 __"Data Rate Maximization for Time Division Multiple Access Networks With Low Detection Probability,"__     
 2022 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 28 Oct. 2022.     
 
