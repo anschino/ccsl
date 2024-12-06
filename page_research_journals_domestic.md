@@ -11,13 +11,18 @@ hide_footer: true
 
 # Domestic journals
 
-5. __Refat Khan__ and __Jihwan Moon__,        
+6. __Refat Khan__ and __Jihwan Moon__,        
 __"Detection Error Probability Maximization for Disguised Full-Duplex Covert Communications,"__     
 _accepted for The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_      
 
-4. __Md Sakil Hasan__ and __Jihwan Moon__,        
+5. __Md Sakil Hasan__ and __Jihwan Moon__,        
 __"Detection Error Probability Maximization for Relay-Based Covert Communications,"__     
 _accepted for The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_      
+
+4. Jaewook Lee, Sangseok Yun, __Jihwan Moon__, Seungho Yoo, and Hoon Lee,        
+__"인공지능 기반 지능형 통신 네트워크 기술 연구 동향,"__     
+_Information and Communications Magazine (정보와 통신)_, Vol. 41, No. 12, pp. 36 - 43, Nov. 2024.        
+Link: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11989006](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11989006){:target="_blank"}      
 
 3. __Jihwan Moon__,        
 __"The Channel Uncertainty of Warden on Disguised Full-Duplex Covert Communications,"__     
