@@ -11,6 +11,14 @@ hide_footer: true
 
 # Domestic conferences
 
+22. __Jihwan Moon__,      
+__"Hybrid DF/AF Relay-Based Low-Probability-of-Detection Satellite Communications,"__     
+2025 Winter Conference of the Korea Information and Communications Society (KICS), 05 Feb. - 07 Feb. 2025.       
+
+21. __Suan Lee__, __Yehyun Jo__ and __Jihwan Moon__,      
+__"Acoustic Wave-Based IoT Protocol Designs for On-Campus Attendance System,"__     
+2025 Winter Conference of the Korea Information and Communications Society (KICS), 05 Feb. - 07 Feb. 2025.       
+
 20. __Refat Khan__ and __Jihwan Moon__,      
 __"Active Jamming for AF Relay-Based Covert Communications,"__     
 2024 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 25 Oct. 2024.     
