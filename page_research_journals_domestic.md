@@ -13,7 +13,8 @@ hide_footer: true
 
 6. __Md Sakil Hasan__ and __Jihwan Moon__,        
 __"Detection Error Probability Maximization for Relay-Based Covert Communications,"__     
-_accepted for The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_      
+_The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Vol. 50, No. 1, pp. 48 - 59, Jan. 2025.      
+DOI: [10.7840/kics.2025.50.1.48](https://doi.org/10.7840/kics.2025.50.1.48){:target="_blank"}      
 
 5. __Refat Khan__ and __Jihwan Moon__,        
 __"Detection Error Probability Maximization for Disguised Full-Duplex Covert Communications,"__     
