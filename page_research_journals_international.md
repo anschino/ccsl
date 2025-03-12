@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+20. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangchun Park, and Inkyu Lee,        
+__"Sensing Mode Selection and Beamforming Design for Integrated Dynamic Sensing and Communication Systems,"__     
+_submitted for possible publication_        
+
 19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
 _submitted for possible publication_        

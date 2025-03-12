@@ -11,6 +11,11 @@ hide_footer: true
 
 # Domestic patents
 
+7. __Jihwan Moon__,      
+__"하이브리드 중계기 기반 은닉 통신 방법 및 장치 (METHOD AND APPARATUS FOR COVERT COMMUNICATION BASED ON HYBRID RELAY),"__      
+Patent date: Filed Feb. 26, 2025 (pending)      
+Patent issuer and number: KR 10-2025-0024826 (pending)      
+
 6. __Jihwan Moon__,      
 __"중계기를 이용한 은닉 통신 시스템 및 방법 (SYSTEM AND METHOD FOR COVERT COMMUNICATIONS BASED ON A RELAY DEVICE),"__      
 Patent date: Filed May 08, 2024 (pending)      

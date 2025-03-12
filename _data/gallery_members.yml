@@ -32,6 +32,17 @@
       link_cv: 
       link_internal: true
       ratio: is-128x128
+
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: Md Gulam Ishak
+      position: M.S. student (2025 - present)
+      email: gulamishakarick [at] gmail [dot] com
+      link_cv: 
+      link_internal: true
+      ratio: is-128x128
     
     - link: /img/img_Member.jpg
       #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
