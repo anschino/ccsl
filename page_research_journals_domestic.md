@@ -11,6 +11,10 @@ hide_footer: true
 
 # Domestic journals
 
+7. Hanol Oh, Jihyeon Yoon, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
+__"CNN-based Physical Layer Authentication against Impersonation Attack,"__     
+accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
+
 6. __Md Sakil Hasan__ and __Jihwan Moon__,        
 __"Detection Error Probability Maximization for Relay-Based Covert Communications,"__     
 _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Vol. 50, No. 1, pp. 48 - 59, Jan. 2025.      

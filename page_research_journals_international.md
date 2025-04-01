@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+21. __Jihwan Moon__, Zhilin Fu, Sangchun Park, Inkyu Bang, Taehoon Kim, and Sangwon Hwang,       
+__"Joint Optimization of Transmission Probability and Artificial Noise for Covert Communications in an AF Relay System,"__     
+_submitted for possible publication_        
+
 20. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangchun Park, and Inkyu Lee,        
 __"Sensing Mode Selection and Beamforming Design for Integrated Dynamic Sensing and Communication Systems,"__     
 _submitted for possible publication_        
