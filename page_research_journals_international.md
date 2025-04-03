@@ -21,7 +21,7 @@ _submitted for possible publication_
 
 19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
-_submitted for possible publication_        
+accepted for _IEEE Transactions on Vehicular Technology_        
 
 18. __Jihwan Moon__,        
 __"Covert Communications in a Hybrid DF/AF Relay System,"__     
