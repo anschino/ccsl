@@ -11,7 +11,6 @@ hide_footer: true
 # Recruitment
 
 Currently available positions:
-- Postdoctoral researcher positions
 - Master student positions
 
 We are looking for a member with inquiring spirits and a certain level of experience in
