@@ -11,6 +11,10 @@ hide_footer: true
 
 # Domestic journals
 
+8. __Jihwan Moon__ and Hoon Lee,        
+__"Spot Beam Power Optimization for an Energy Efficient Multi-LEO Satellite Network,"__     
+_submitted for possible publication_        
+
 7. Hanol Oh, Jihyeon Yoon, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"CNN-based Physical Layer Authentication against Impersonation Attack,"__     
 accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     

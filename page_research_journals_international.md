@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+22. Taehoon Kim, __Jihwan Moon__, and Inkyu Bang,       
+__"Two-Step Random Access with Distributed Pilot Orthogonalization for Resource-Efficient LEO Satellite Networks,"__     
+_submitted for possible publication_        
+
 21. __Jihwan Moon__, Zhilin Fu, Inkyu Bang, Taehoon Kim, and Sangwon Hwang,       
 __"Joint Optimization of Transmission Probability and Artificial Noise for Covert Communications in an AF Relay System,"__     
 _submitted for possible publication_        
@@ -22,6 +26,7 @@ _submitted for possible publication_
 19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
 accepted for _IEEE Transactions on Vehicular Technology_        
+DOI: [10.1109/TVT.2025.3561872](https://doi.org/10.1109/TVT.2025.3561872){:target="_blank"}       
 
 18. __Jihwan Moon__,        
 __"Covert Communications in a Hybrid DF/AF Relay System,"__     
