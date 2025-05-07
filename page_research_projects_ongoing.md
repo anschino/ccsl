@@ -11,10 +11,14 @@ hide_footer: true
 
 # Ongoing projects
 
+4. May 2025. - Oct. 2025.      
+__"A Security Analysis on the Physical Layer in Low-Power Long-Range Internet-of-Things (IoT) Communications (IoT 저전력 장거리 통신 물리 계층 안전성 분석 연구)"__     
+_The Affiliated Institute of Electronics and Telecommunications Research Institute (ETRI)_ _(한국전자통신연구원 부설연구소)_        
+
 3. Jul. 2024. - Dec. 2031.      
 __"ICT Research Center for 6G Wireless Communications Standardization (6G 무선통신 글로컬 연구센터)"__     
 _Information Technology Research Center (ITRC)_ _(대학정보통신연구센터협의회)_     
-[WiSL](https://sites.google.com/site/hnucsp/home){:target="_blank"} at Hanbat National University.      
+with [WiSL](https://sites.google.com/site/hnucsp/home){:target="_blank"} at Hanbat National University.      
 
 2. Dec. 2022 - Nov. 2028.       
 __"Space-Layer Intelligent Communication Network Laboratory (우주계층 지능통신망 특화연구실)"__     
