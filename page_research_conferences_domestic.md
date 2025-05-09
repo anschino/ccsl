@@ -14,10 +14,12 @@ hide_footer: true
 22. __Jihwan Moon__,      
 __"Hybrid DF/AF Relay-Based Low-Probability-of-Detection Satellite Communications,"__     
 2025 Winter Conference of the Korea Information and Communications Society (KICS), 05 Feb. - 07 Feb. 2025.       
+Link: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132064](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132064){:target="_blank"}       
 
 21. __Suan Lee__, __Yehyun Jo__ and __Jihwan Moon__,      
 __"Acoustic Wave-Based IoT Protocol Designs for On-Campus Attendance System,"__     
 2025 Winter Conference of the Korea Information and Communications Society (KICS), 05 Feb. - 07 Feb. 2025.       
+Link: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132408](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132408){:target="_blank"}       
 
 20. __Refat Khan__ and __Jihwan Moon__,      
 __"Active Jamming for AF Relay-Based Covert Communications,"__     
