@@ -11,6 +11,10 @@ hide_footer: true
 
 # Domestic conferences
 
+23. __Jihwan Moon__,      
+__"Covert Communications In Relay Networks With Passive and Proactive Detection Uncertainty,"__     
+2025 Summer Conference of the Korea Information and Communications Society (KICS), 18 Jun. - 21 Jun. 2025.       
+
 22. __Jihwan Moon__,      
 __"Hybrid DF/AF Relay-Based Low-Probability-of-Detection Satellite Communications,"__     
 2025 Winter Conference of the Korea Information and Communications Society (KICS), 05 Feb. - 07 Feb. 2025.       
