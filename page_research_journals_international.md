@@ -20,7 +20,7 @@ __"Joint Optimization of Transmission Probability and Artificial Noise for Cover
 _submitted for possible publication_        
 
 20. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangchun Park, and Inkyu Lee,        
-__"Sensing Mode Selection and Beamforming Design for Integrated Dynamic Sensing and Communication Systems,"__     
+__"Sensing Mode Selection and Beamforming Designs for Integrated Dynamic Sensing and Communication Systems,"__     
 _submitted for possible publication_        
 
 19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
@@ -32,16 +32,55 @@ DOI: [10.1109/TVT.2025.3561872](https://doi.org/10.1109/TVT.2025.3561872){:targe
 __"Covert Communications in a Hybrid DF/AF Relay System,"__     
 _Sensors_, Vol. 24, No. 20, p. 6518, Oct. 2024.     
 DOI: [10.3390/s24206518](https://doi.org/10.3390/s24206518){:target="_blank"}       
+    <details>
+        <summary><span style="color:slategray">More infomation</span></summary>
+            <span style="color:slategray">
+            <ul>
+            <li>JIF: 3.5</li>
+            <li>Year: 2024</li>
+            <li>Category: CHEMISTRY, ANALYTICAL</li>
+            <li>Rank: 38/111</li>
+            <li>Quartile: Q2</li>
+            <li>Percentile: 66.2</li>
+            </ul>
+            </span>
+    </details>
 
 17. Suho Shin, Prince Anokye, Hoon Lee, __Jihwan Moon__, and Kyoung-Jae Lee,        
 __"Balancing Available Energy Distribution in mMIMO SWIPT Sensor Networks With Low Resolution ADC/DAC,"__       
 _IEEE Access_, Vol. 12, pp. 128702-128716, 2024.        
 DOI: [10.1109/ACCESS.2024.3456800](https://doi.org/10.1109/ACCESS.2024.3456800){:target="_blank"}     
+    <details>
+        <summary><span style="color:slategray">More infomation</span></summary>
+            <span style="color:slategray">
+            <ul>
+            <li>JIF: 3.6</li>
+            <li>Year: 2024</li>
+            <li>Category: ENGINEERING, ELECTRICAL & ELECTRONIC</li>
+            <li>Rank: 128/366</li>
+            <li>Quartile: Q2</li>
+            <li>Percentile: 65.2</li>
+            </ul>
+            </span>
+    </details>
 
 16. __Jihwan Moon__,        
 __"Covert Communications in a Compress-and-Forward Relay System,"__     
 _ICT Express_, Vol. 10, No. 2, pp. 412 - 417, Apr. 2024.        
 DOI: [10.1016/j.icte.2023.08.005](https://doi.org/10.1016/j.icte.2023.08.005){:target="_blank"}     
+    <details>
+        <summary><span style="color:slategray">More infomation</span></summary>
+            <span style="color:slategray">
+            <ul>
+            <li>JIF: 4.2</li>
+            <li>Year: 2024</li>
+            <li>Category: COMPUTER SCIENCE, INFORMATION SYSTEMS</li>
+            <li>Rank: 73/258</li>
+            <li>Quartile: Q2</li>
+            <li>Percentile: 71.9</li>
+            </ul>
+            </span>
+    </details>
 
 15. __Jihwan Moon__,        
 __"Performance Comparison of Relay-Based Covert Communications: DF, CF and AF,"__     
