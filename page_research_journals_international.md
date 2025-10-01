@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+23. Ivy Selorm Dogbey, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
+__"Lightweight Physical-Layer Authentication via IQ Sample Super-Resolution in LEO Satellite Networks,"__       
+_submitted for possible publication_        
+
 22. Taehoon Kim, __Jihwan Moon__, and Inkyu Bang,       
 __"Two-Step Random Access with Distributed Pilot Orthogonalization for Resource-Efficient LEO Satellite Networks,"__     
 _submitted for possible publication_        
@@ -25,7 +29,7 @@ _submitted for possible publication_
 
 19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
-accepted for _IEEE Transactions on Vehicular Technology_        
+_IEEE Transactions on Vehicular Technology_, Vol. 24, No. 9, pp. 14069 - 14080, Sept. 2025.       
 DOI: [10.1109/TVT.2025.3561872](https://doi.org/10.1109/TVT.2025.3561872){:target="_blank"}       
 
 18. __Jihwan Moon__,        

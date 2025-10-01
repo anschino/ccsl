@@ -14,6 +14,7 @@ hide_footer: true
 23. __Jihwan Moon__,      
 __"Covert Communications In Relay Networks With Passive and Proactive Detection Uncertainty,"__     
 2025 Summer Conference of the Korea Information and Communications Society (KICS), 18 Jun. - 21 Jun. 2025.       
+Link: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12360630](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12360630){:target="_blank"}       
 
 22. __Jihwan Moon__,      
 __"Hybrid DF/AF Relay-Based Low-Probability-of-Detection Satellite Communications,"__     

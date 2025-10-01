@@ -11,6 +11,10 @@ hide_footer: true
 
 # Domestic journals
 
+10. Wonho Lee, __Jihwan Moon__, Haneol Jang, Cheoneum Park, Inkyu Bang, Taehoon Kim,        
+__"Effect of Physical-Layer Impairments on Two-Step Random Access with Message Replication in 6G NTN,"__     
+accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
+
 9. Ralph Assan, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Physical Layer Authentication for Mobile Devices in WLAN System: Autoencoder-based Approach,"__     
 accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
@@ -21,7 +25,8 @@ accepted for _The Journal of Korean Institute of Communications and Information 
 
 7. Hanol Oh, Jihyeon Yoon, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"CNN-based Physical Layer Authentication against Impersonation Attack,"__     
-accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
+_The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Vol. 50, No. 8, pp. 1172 - 1182, Aug. 2025.      
+DOI: [10.7840/kics.2025.50.8.1172](https://doi.org/10.7840/kics.2025.50.8.1172){:target="_blank"}      
 
 6. __Md Sakil Hasan__ and __Jihwan Moon__,        
 __"Detection Error Probability Maximization for Relay-Based Covert Communications,"__     
