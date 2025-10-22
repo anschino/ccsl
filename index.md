@@ -10,21 +10,20 @@ hide_footer: true
 
 # Recruitment
 
-Currently available positions:
-- Master student positions
+Current Openings:
+- _There are no open positions at the moment_
 
-We are looking for a member with inquiring spirits and a certain level of experience in
-- Linear algebra
-- Optimization
+We are open to connecting with individuals who have a curious mindset and experience in the following areas
+- Engineering mathematics (calculus, probability theory, linear algebra)
 - Machine learning
 
-# About us
+# About Us
 
-Cognitive Communications Systems Laboratory (CCSL) delves into the state-of-the-art communications systems that are designed by perception, learning, and adaptive approaches.
+Cognitive Communications Systems Laboratory (CCSL) explores cutting-edge communications systems empowered by perception, learning, and adaptive methodologies.
 
-Our members specifically pursue the application of cognitive approaches to enhance the performance for a variety of 6G communications systems, design "green" networks such as energy efficient and wireless powered communications, protect transmissions of classified information, and automate complex resource optimization tasks.
+The members study on applying cognitive approaches to enhance the performance of next-generation (6G and beyond) communications systems, design energy-efficient ("green") and wireless-powered networks, secure the transmission of sensitive information, and automate complex resource optimization in dynamic environments.
 
-The research themes including but not limited to:
+The research themes include but are not limited to:
 - 6G communications systems
 - Energy efficient transmissions
 - Wireless powered communications
