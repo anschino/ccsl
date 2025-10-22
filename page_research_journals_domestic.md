@@ -11,17 +11,21 @@ hide_footer: true
 
 # Domestic journals
 
-10. Wonho Lee, __Jihwan Moon__, Haneol Jang, Cheoneum Park, Inkyu Bang, Taehoon Kim,        
+11. Wonho Lee, __Jihwan Moon__, Haneol Jang, Cheoneum Park, Inkyu Bang, Taehoon Kim,        
 __"Effect of Physical-Layer Impairments on Two-Step Random Access with Message Replication in 6G NTN,"__     
 accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
 
-9. Ralph Assan, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
+10. Ralph Assan, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Physical Layer Authentication for Mobile Devices in WLAN System: Autoencoder-based Approach,"__     
 accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
 
-8. __Jihwan Moon__ and Hoon Lee,        
+9. __Jihwan Moon__ and Hoon Lee,        
 __"Spot Beam Power Optimization for an Energy Efficient Multi-LEO Satellite Network,"__     
 accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
+
+8. Hoon Lee and __Jihwan Moon__,       
+__"Learning Spot Beam Power Control in Multi-LEO Satellite Networks,"__     
+_Journal of the Korea Institute of Information and Communication Engineering (JKIICE)_, Vol. 29, No. 10, pp. 1430 - 1433, Oct. 2025.      
 
 7. Hanol Oh, Jihyeon Yoon, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"CNN-based Physical Layer Authentication against Impersonation Attack,"__     

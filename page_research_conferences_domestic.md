@@ -11,6 +11,18 @@ hide_footer: true
 
 # Domestic conferences
 
+26. __Md Gulam Ishak__ and __Jihwan Moon__,      
+__"Revisiting Spatial Ultra-Sparse Distributed Antenna Satellite-Ground Cooperative Transmission: Technologies and Challenges,"__     
+2025 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 24 Oct. 2025.     
+
+25. __Refat Khan__ and __Jihwan Moon__,      
+__"Review and Summary of Hybrid Model and Data-Driven WiFi Sensing with Data-Traffic-Informed Augmentation,"__     
+2025 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 24 Oct. 2025.     
+
+24. __Md Sakil Hasan__ and __Jihwan Moon__,      
+__"A Comprehensive Review on Secrecy Outage Probability of Artificial-Noise-Aided Secure Transmission in LEO Satellite Networks,"__     
+2025 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 24 Oct. 2025.     
+
 23. __Jihwan Moon__,      
 __"Covert Communications In Relay Networks With Passive and Proactive Detection Uncertainty,"__     
 2025 Summer Conference of the Korea Information and Communications Society (KICS), 18 Jun. - 21 Jun. 2025.       
