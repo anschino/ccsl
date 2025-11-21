@@ -11,20 +11,16 @@ hide_footer: true
 
 # International journals
 
-23. Ivy Selorm Dogbey, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
+22. Emmanuella Adu, Yeongmuk Lee, Jihwan Moon, Sooyoung Jang, Inkyu Bang, and Taehoon Kim,        
+__"Decentralized Offloading Decision Strategy based on Multi-Agent Deep Reinforcement Learning for Mobile Edge Computing Systems,"__       
+_submitted for possible publication_        
+
+21. __Jihwan Moon__, Sangwon Hwang, Juseong Park, Inkyu Bang, Taehoon Kim, and Zhilin Fu,        
+__"Achievable Performance of Covert Communications via Power-Domain Binary Embedding,"__       
+_submitted for possible publication_        
+
+20. Ivy Selorm Dogbey, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Lightweight Physical-Layer Authentication via IQ Sample Super-Resolution in LEO Satellite Networks,"__       
-_submitted for possible publication_        
-
-22. Taehoon Kim, __Jihwan Moon__, and Inkyu Bang,       
-__"Two-Step Random Access with Distributed Pilot Orthogonalization for Resource-Efficient LEO Satellite Networks,"__     
-_submitted for possible publication_        
-
-21. __Jihwan Moon__, Zhilin Fu, Inkyu Bang, Taehoon Kim, and Sangwon Hwang,       
-__"Joint Optimization of Transmission Probability and Artificial Noise for Covert Communications in an AF Relay System,"__     
-_submitted for possible publication_        
-
-20. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangchun Park, and Inkyu Lee,        
-__"Sensing Mode Selection and Beamforming Designs for Integrated Dynamic Sensing and Communication Systems,"__     
 _submitted for possible publication_        
 
 19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        

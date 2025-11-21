@@ -11,6 +11,10 @@ hide_footer: true
 
 # Past projects
 
+6. May 2025. - Oct. 2025.      
+__"A Security Analysis on the Physical Layer in Low-Power Long-Range Internet-of-Things (IoT) Communications (IoT 저전력 장거리 통신 물리 계층 안전성 분석 연구)"__     
+_The Affiliated Institute of Electronics and Telecommunications Research Institute (ETRI)_ _(한국전자통신연구원 부설연구소)_        
+
 5. Apr. 2023 - Oct. 2023.       
 __"Internet-of-Things Wireless Transport Protocol (IoT 무선 통신 전송 계층 프로토콜 연구)"__     
 _The Affiliated Institute of Electronics and Telecommunications Research Institute (ETRI)_ _(한국전자통신연구원 부설연구소)_        

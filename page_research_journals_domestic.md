@@ -17,15 +17,19 @@ accepted for _The Journal of Korean Institute of Communications and Information 
 
 10. Ralph Assan, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Physical Layer Authentication for Mobile Devices in WLAN System: Autoencoder-based Approach,"__     
-accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
+_The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Vol. 50, No. 11, pp. 1660 - 1668, Nov. 2025.     
+DOI: [10.7840/kics.2025.50.11.1660](https://doi.org/10.7840/kics.2025.50.11.1660){:target="_blank"}      
 
 9. __Jihwan Moon__ and Hoon Lee,        
 __"Spot Beam Power Optimization for an Energy Efficient Multi-LEO Satellite Network,"__     
-accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
+_The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Vol. 50, No. 11, pp. 1687 - 1699, Nov. 2025.      
+DOI: [10.7840/kics.2025.50.11.1687](https://doi.org/10.7840/kics.2025.50.11.1687){:target="_blank"}      
+<span style="color:red">Best paper award</span>      
 
 8. Hoon Lee and __Jihwan Moon__,       
 __"Learning Spot Beam Power Control in Multi-LEO Satellite Networks,"__     
 _Journal of the Korea Institute of Information and Communication Engineering (JKIICE)_, Vol. 29, No. 10, pp. 1430 - 1433, Oct. 2025.      
+DOI: [10.6109/jkiice.2024.29.10.1430](https://doi.org/10.6109/jkiice.2024.29.10.1430){:target="_blank"}      
 
 7. Hanol Oh, Jihyeon Yoon, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"CNN-based Physical Layer Authentication against Impersonation Attack,"__     

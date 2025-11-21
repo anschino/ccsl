@@ -11,6 +11,11 @@ hide_footer: true
 
 # Domestic patents
 
+8. Hoon Lee and __Jihwan Moon__,      
+__"다중 위성의 스폿 빔 전력을 결정하는 방법 및 장치 (METHOD AND APPARATUS FOR DETERMINING SPOT BEAM POWER OF MULTIPLE SATELLITES),"__      
+Patent date: Filed Sep. 11, 2025 (pending)      
+Patent issuer and number: KR 10-2025-0130030 (pending)      
+
 7. __Jihwan Moon__,      
 __"하이브리드 중계기 기반 은닉 통신 방법 및 장치 (METHOD AND APPARATUS FOR COVERT COMMUNICATION BASED ON HYBRID RELAY),"__      
 Patent date: Filed Feb. 26, 2025 (pending)      
