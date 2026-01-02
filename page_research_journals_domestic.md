@@ -11,6 +11,10 @@ hide_footer: true
 
 # Domestic journals
 
+12. Choeun Lee, Hyerin Oh, Seockjun Hwang, and __Jihwan Moon__,        
+__"Implementation of Speaker-to-Speaker Side-Channel Attack in an Air-Gapped Environment,"__     
+_submitted for possible publication_        
+
 11. Wonho Lee, __Jihwan Moon__, Haneol Jang, Cheoneum Park, Inkyu Bang, Taehoon Kim,        
 __"Effect of Physical-Layer Impairments on Two-Step Random Access with Message Replication in 6G NTN,"__     
 accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     

@@ -11,7 +11,11 @@ hide_footer: true
 
 # International journals
 
-22. Emmanuella Adu, Yeongmuk Lee, Jihwan Moon, Sooyoung Jang, Inkyu Bang, and Taehoon Kim,        
+23. __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
+__"Covert Communications in a Downlink Time Division Multiple Access System,"__       
+_submitted for possible publication_        
+
+22. Emmanuella Adu, Yeongmuk Lee, __Jihwan Moon__, Sooyoung Jang, Inkyu Bang, and Taehoon Kim,        
 __"Decentralized Offloading Decision Strategy based on Multi-Agent Deep Reinforcement Learning for Mobile Edge Computing Systems,"__       
 _submitted for possible publication_        
 

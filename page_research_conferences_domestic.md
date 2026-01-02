@@ -11,6 +11,10 @@ hide_footer: true
 
 # Domestic conferences
 
+27. __Suan Lee__, __Yehyun Jo__ and __Jihwan Moon__,      
+__"Implementation of IoT Protocols for an Acoustic-Based On-Campus Attendance System,"__     
+2026 Winter Conference of the Korea Information and Communications Society (KICS), 04 Feb. - 06 Feb. 2026.       
+
 26. __Md Gulam Ishak__ and __Jihwan Moon__,      
 __"Revisiting Spatial Ultra-Sparse Distributed Antenna Satellite-Ground Cooperative Transmission: Technologies and Challenges,"__     
 2025 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 24 Oct. 2025.     
