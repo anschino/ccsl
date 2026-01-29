@@ -23,13 +23,13 @@ Patent issuer and number: KR 10-2025-0024826 (pending)
 
 6. __Jihwan Moon__,      
 __"중계기를 이용한 은닉 통신 시스템 및 방법 (SYSTEM AND METHOD FOR COVERT COMMUNICATIONS BASED ON A RELAY DEVICE),"__      
-Patent date: Filed May 08, 2024 (pending)      
-Patent issuer and number: KR 10-2024-0060728 (pending)      
+Patent date: Filed May 08, 2024 (pending), Jan. 07, 2026 (registered)       
+Patent issuer and number: KR 10-2024-0060728 (pending), KR 10-2910802 (registered)      
 
 5. __Jihwan Moon__,      
 __"위장 전이중 장치를 이용한 은닉 통신 시스템 및 방법 (SYSTEM AND METHOD FOR COVERT COMMUNICATIONS BASED ON A DISGUISED FULL-DUPLEX DEVICE),"__      
-Patent date: Filed May 08, 2024 (pending)      
-Patent issuer and number: KR 10-2024-0060727 (pending)      
+Patent date: Filed May 08, 2024 (pending), Jan. 07, 2026 (registered)       
+Patent issuer and number: KR 10-2024-0060727 (pending), KR 10-2910800 (registered)      
 
 4. Inkyu Lee, Zhilin Fu, __Jihwan Moon__, and Sangwon Hwang,      
 __"무선 통신 시스템에서 라인 패널 코드북 기반 송수신 방법 및 장치 (METHOD AND APPARATUS FOR TRANSMISSION AND RECEPTION BASED ON LINE PANEL CODEBOOK IN WIRELESS COMMUNICATION SYSTEM),"__      

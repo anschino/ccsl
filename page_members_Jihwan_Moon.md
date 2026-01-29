@@ -44,9 +44,12 @@ show_sidebar: false
 * Mar. 2019	-	Jul. 2019
   * Postdoctoral research associate, Research Institute for Information and Communication Technology (RICT), [Korea University](http://www.korea.ac.kr){:target="_blank"}, the Republic of Korea
 * Jan. 2018	-	Mar. 2018
-  * Visiting research student, [King’s College London](https://www.kcl.ac.uk/){:target="_blank"} (advisor: [Prof. Osvaldo Simeone](https://nms.kcl.ac.uk/osvaldo.simeone/index.htm){:target="_blank"}), the United Kingdom
+  * Visiting research student, [King’s College London](https://www.kcl.ac.uk/){:target="_blank"} (advisor: [Prof. Osvaldo Simeone](https://sites.google.com/view/osvaldosimeone/home){:target="_blank"}), the United Kingdom
 
 #### Awards
+* Nov. 2025
+  * The Journal of Korean Institute of Communications and Information Sciences (J-KICS) Best paper award
+  * Title: Spot Beam Power Optimization for an Energy Efficient Multi-LEO Satellite Network
 * Jul. 2024
   * 2024 The 15th International Conference on Ubiquitous and Future Networks (ICUFN) Best paper runner-up award
   * Title: Energy Efficiency Maximization for Multi-LEO Satellite Networks

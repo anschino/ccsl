@@ -15,17 +15,17 @@ hide_footer: true
 __"Covert Communications in a Downlink Time Division Multiple Access System,"__       
 _submitted for possible publication_        
 
-22. Emmanuella Adu, Yeongmuk Lee, __Jihwan Moon__, Sooyoung Jang, Inkyu Bang, and Taehoon Kim,        
-__"Decentralized Offloading Decision Strategy based on Multi-Agent Deep Reinforcement Learning for Mobile Edge Computing Systems,"__       
-_submitted for possible publication_        
-
-21. __Jihwan Moon__, Sangwon Hwang, Juseong Park, Inkyu Bang, Taehoon Kim, and Zhilin Fu,        
+22. __Jihwan Moon__, Sangwon Hwang, Juseong Park, Inkyu Bang, Taehoon Kim, and Zhilin Fu,        
 __"Achievable Performance of Covert Communications via Power-Domain Binary Embedding,"__       
 _submitted for possible publication_        
 
-20. Ivy Selorm Dogbey, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
+21. Ivy Selorm Dogbey, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Lightweight Physical-Layer Authentication via IQ Sample Super-Resolution in LEO Satellite Networks,"__       
-_submitted for possible publication_        
+_to appear in IEEE Communications Letters_        
+
+20. Emmanuella Adu, Yeongmuk Lee, __Jihwan Moon__, Sooyoung Jang, Inkyu Bang, and Taehoon Kim,        
+__"Decentralized Offloading Decision Strategy based on Multi-Agent Deep Reinforcement Learning for Mobile Edge Computing Systems,"__       
+_to appear in Sensors_        
 
 19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
