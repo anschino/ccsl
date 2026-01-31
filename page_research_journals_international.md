@@ -24,8 +24,9 @@ __"Lightweight Physical-Layer Authentication via IQ Sample Super-Resolution in L
 _to appear in IEEE Communications Letters_        
 
 20. Emmanuella Adu, Yeongmuk Lee, __Jihwan Moon__, Sooyoung Jang, Inkyu Bang, and Taehoon Kim,        
-__"Decentralized Offloading Decision Strategy based on Multi-Agent Deep Reinforcement Learning for Mobile Edge Computing Systems,"__       
-_to appear in Sensors_        
+__"Decentralized Computation Offloading Strategy via Multi-Agent Deep Reinforcement Learning for Multi-Access Edge Computing,"__       
+_Sensors_, Vol. 26, No. 3, p. 914, Oct. 2024.     
+DOI: [10.3390/s26030914](https://doi.org/10.3390/s26030914){:target="_blank"}       
 
 19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
