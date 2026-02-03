@@ -30,7 +30,7 @@ DOI: [10.3390/s26030914](https://doi.org/10.3390/s26030914){:target="_blank"}
 
 19. Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangmin Kim, Di Zhang, and Inkyu Lee,        
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
-_IEEE Transactions on Vehicular Technology_, Vol. 24, No. 9, pp. 14069 - 14080, Sept. 2025.       
+_IEEE Transactions on Vehicular Technology_, Vol. 74, No. 9, pp. 14069 - 14080, Sept. 2025.       
 DOI: [10.1109/TVT.2025.3561872](https://doi.org/10.1109/TVT.2025.3561872){:target="_blank"}       
 
 18. __Jihwan Moon__,        
