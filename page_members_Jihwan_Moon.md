@@ -47,6 +47,8 @@ show_sidebar: false
   * Visiting research student, [King’s College London](https://www.kcl.ac.uk/){:target="_blank"} (advisor: [Prof. Osvaldo Simeone](https://sites.google.com/view/osvaldosimeone/home){:target="_blank"}), the United Kingdom
 
 #### Awards
+* Feb. 2026
+  * The 2025 HBNU Best Research Award
 * Nov. 2025
   * The Journal of Korean Institute of Communications and Information Sciences (J-KICS) Best paper award
   * Title: Spot Beam Power Optimization for an Energy Efficient Multi-LEO Satellite Network
