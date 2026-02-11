@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+24. Zhilin Fu, Sangmin Kim, Sangwon Hwang, __Jihwan Moon__, Jeongwon Kim, and Inkyu Lee,        
+__"Deep Reinforcement Learning for Adaptive Power Allocation in ISAC Systems with Mobile Target,"__       
+_submitted for possible publication_        
+
 23. __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Covert Communications in a Downlink Time Division Multiple Access System,"__       
 _submitted for possible publication_        
@@ -22,6 +26,7 @@ _submitted for possible publication_
 21. Ivy Selorm Dogbey, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Lightweight Physical-Layer Authentication via IQ Sample Super-Resolution in LEO Satellite Networks,"__       
 _to appear in IEEE Communications Letters_        
+DOI: [10.1109/LCOMM.2026.3659912](https://doi.org/10.1109/LCOMM.2026.3659912){:target="_blank"}       
 
 20. Emmanuella Adu, Yeongmuk Lee, __Jihwan Moon__, Sooyoung Jang, Inkyu Bang, and Taehoon Kim,        
 __"Decentralized Computation Offloading Strategy via Multi-Agent Deep Reinforcement Learning for Multi-Access Edge Computing,"__       
