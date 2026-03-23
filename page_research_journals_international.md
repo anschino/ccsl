@@ -25,7 +25,7 @@ _submitted for possible publication_
 
 22. __Jihwan Moon__, Sangwon Hwang, Juseong Park, Inkyu Bang, Taehoon Kim, and Zhilin Fu,        
 __"Achievable Performance of Covert Communications via Power-Domain Binary Embedding,"__       
-_submitted for possible publication_        
+_to appear in IEEE Wireless Communications Letters_        
 
 21. Ivy Selorm Dogbey, Yongjae Lee, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Lightweight Physical-Layer Authentication via IQ Sample Super-Resolution in LEO Satellite Networks,"__       
