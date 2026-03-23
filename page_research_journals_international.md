@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+25. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangchun Park, and Inkyu Lee,        
+__"Adaptive Sensing Mode Selection and Beamforming Designs for Integrated Dynamic Sensing and Communication Systems,"__       
+_submitted for possible publication_        
+
 24. Zhilin Fu, Sangmin Kim, Sangwon Hwang, __Jihwan Moon__, Jeongwon Kim, and Inkyu Lee,        
 __"Deep Reinforcement Learning for Adaptive Power Allocation in ISAC Systems with Mobile Target,"__       
 _submitted for possible publication_        
@@ -23,9 +27,9 @@ _submitted for possible publication_
 __"Achievable Performance of Covert Communications via Power-Domain Binary Embedding,"__       
 _submitted for possible publication_        
 
-21. Ivy Selorm Dogbey, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
+21. Ivy Selorm Dogbey, Yongjae Lee, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Lightweight Physical-Layer Authentication via IQ Sample Super-Resolution in LEO Satellite Networks,"__       
-_to appear in IEEE Communications Letters_        
+_IEEE Communications Letters_, Vol. 30, pp. 1180-1184, Feb. 2026.        
 DOI: [10.1109/LCOMM.2026.3659912](https://doi.org/10.1109/LCOMM.2026.3659912){:target="_blank"}       
 
 20. Emmanuella Adu, Yeongmuk Lee, __Jihwan Moon__, Sooyoung Jang, Inkyu Bang, and Taehoon Kim,        
