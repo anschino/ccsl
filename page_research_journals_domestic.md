@@ -13,11 +13,13 @@ hide_footer: true
 
 12. Choeun Lee, Hyerin Oh, Seockjun Hwang, and __Jihwan Moon__,        
 __"Implementation of Speaker-to-Speaker Side-Channel Attack in an Air-Gapped Environment,"__     
-_submitted for possible publication_        
+_to appear in Journal of the Korea Institute of Information and Communication Engineering (JKIICE)_        
 
 11. Wonho Lee, __Jihwan Moon__, Haneol Jang, Cheoneum Park, Inkyu Bang, Taehoon Kim,        
 __"Effect of Physical-Layer Impairments on Two-Step Random Access with Message Replication in 6G NTN,"__     
-accepted for _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_,     
+_The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Vol. 51, No. 3, pp. 
+653 - 656, Mar. 2026.     
+DOI: [10.7840/kics.2026.51.3.653](https://doi.org/10.7840/kics.2026.51.3.653){:target="_blank"}      
 
 10. Ralph Assan, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Physical Layer Authentication for Mobile Devices in WLAN System: Autoencoder-based Approach,"__     
