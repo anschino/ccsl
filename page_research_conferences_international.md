@@ -14,10 +14,12 @@ hide_footer: true
 13. Kun Ju Kim, Seonghyun Kim, __Md Sakil Hasan__, __Refat Khan__, __Md Gulam Ishak__, __Jihwan Moon__, Kyoung-Jae Lee, and Gosan Noh,      
 __"NTN Evolution in 3GPP 5G Advanced,"__      
 2025 The 16th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 14 - 17 Oct. 2025.      
+DOI: [10.1109/ICTC66702.2025.11388010](https://doi.org/10.1109/ICTC66702.2025.11388010){:target="_blank"}       
 
 12. __Md Sakil Hasan__, __Md Gulam Ishak__, and __Jihwan Moon__,        
 __"Secrecy Enhancement and Distributed Architectures in LEO Satellite Networks: A Survey on AN-Assisted Scheduling and SUSDA Design,"__      
 2025 The 16th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 14 - 17 Oct. 2025.      
+DOI: [10.1109/ICTC66702.2025.11389082](https://doi.org/10.1109/ICTC66702.2025.11389082){:target="_blank"}       
 
 11. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, and Inkyu Lee,        
 __"Beamforming Optimization for Time Domain Integrated Sensing and Communication Systems,"__      

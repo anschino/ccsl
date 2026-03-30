@@ -15,7 +15,7 @@ hide_footer: true
 __"Implementation of Speaker-to-Speaker Side-Channel Attack in an Air-Gapped Environment,"__     
 _to appear in Journal of the Korea Institute of Information and Communication Engineering (JKIICE)_        
 
-11. Wonho Lee, __Jihwan Moon__, Haneol Jang, Cheoneum Park, Inkyu Bang, Taehoon Kim,        
+11. Wonho Lee, __Jihwan Moon__, Haneol Jang, Cheoneum Park, Inkyu Bang, and Taehoon Kim,        
 __"Effect of Physical-Layer Impairments on Two-Step Random Access with Message Replication in 6G NTN,"__     
 _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Vol. 51, No. 3, pp. 
 653 - 656, Mar. 2026.     
