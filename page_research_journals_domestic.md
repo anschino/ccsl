@@ -21,7 +21,7 @@ _The Journal of Korean Institute of Communications and Information Sciences (J-K
 653 - 656, Mar. 2026.     
 DOI: [10.7840/kics.2026.51.3.653](https://doi.org/10.7840/kics.2026.51.3.653){:target="_blank"}      
 
-10. Ralph Assan, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
+10. Ralph Kumah Assan, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Physical Layer Authentication for Mobile Devices in WLAN System: Autoencoder-based Approach,"__     
 _The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_, Vol. 50, No. 11, pp. 1660 - 1668, Nov. 2025.     
 DOI: [10.7840/kics.2025.50.11.1660](https://doi.org/10.7840/kics.2025.50.11.1660){:target="_blank"}      

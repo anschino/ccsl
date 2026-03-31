@@ -11,6 +11,10 @@ hide_footer: true
 
 # Domestic conferences
 
+28. Jeongwon Kim, Sangwon Hwang, Sangmin Kim, Zhilin Fu, __Jihwan Moon__, and Inkyu Lee,        
+__"Implementation of IoT Protocols for an Acoustic-Based On-Campus Attendance System,"__     
+2026 Winter Conference of the Korea Information and Communications Society (KICS), 04 Feb. - 06 Feb. 2026.       
+
 27. __Suan Lee__, __Yehyun Jo__ and __Jihwan Moon__,      
 __"Implementation of IoT Protocols for an Acoustic-Based On-Campus Attendance System,"__     
 2026 Winter Conference of the Korea Information and Communications Society (KICS), 04 Feb. - 06 Feb. 2026.       
