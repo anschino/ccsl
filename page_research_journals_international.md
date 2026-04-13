@@ -21,7 +21,7 @@ _submitted for possible publication_
 
 23. __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Covert Communications in a Downlink Time Division Multiple Access System,"__       
-_submitted for possible publication_        
+_to appear in Scientific Reports_        
 
 22. __Jihwan Moon__, Sangwon Hwang, Juseong Park, Inkyu Bang, Taehoon Kim, and Zhilin Fu,        
 __"Achievable Performance of Covert Communications via Power-Domain Binary Embedding,"__       
