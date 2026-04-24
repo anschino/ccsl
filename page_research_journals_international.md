@@ -25,7 +25,7 @@ _to appear in Scientific Reports_
 
 22. __Jihwan Moon__, Sangwon Hwang, Juseong Park, Inkyu Bang, Taehoon Kim, and Zhilin Fu,        
 __"Achievable Performance of Covert Communications via Power-Domain Binary Embedding,"__       
-_to appear in IEEE Wireless Communications Letters_        
+_IEEE Wireless Communications Letters_, Vol. 15, pp. 2644-2648, 2026.        
 DOI: [10.1109/LWC.2026.3679366](https://doi.org/10.1109/LWC.2026.3679366){:target="_blank"}       
 
 21. Ivy Selorm Dogbey, Yongjae Lee, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
