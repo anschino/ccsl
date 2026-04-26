@@ -11,9 +11,14 @@ hide_footer: true
 
 # Domestic journals
 
+13. __Jihwan Moon__,        
+__"Detection Error Probability of Covert Communications via Power-Domain Binary Embedding,"__     
+_submitted for possible publication_        
+
 12. Choeun Lee, Hyerin Oh, Seockjun Hwang, and __Jihwan Moon__,        
 __"Implementation of Speaker-to-Speaker Side-Channel Attack in an Air-Gapped Environment,"__     
-_to appear in Journal of the Korea Institute of Information and Communication Engineering (JKIICE)_        
+_Journal of the Korea Institute of Information and Communication Engineering (JKIICE)_, Vol. 30, No. 3, pp. 529 - 532, Mar. 2026.        
+DOI: [10.6109/jkiice.2026.30.3.529](https://doi.org/10.6109/jkiice.2026.30.3.529){:target="_blank"}      
 
 11. Wonho Lee, __Jihwan Moon__, Haneol Jang, Cheoneum Park, Inkyu Bang, and Taehoon Kim,        
 __"Effect of Physical-Layer Impairments on Two-Step Random Access with Message Replication in 6G NTN,"__     
