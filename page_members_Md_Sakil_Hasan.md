@@ -24,12 +24,12 @@ show_sidebar: false
 
 #### Education
 * Sep. 2024	- present
-  * Doctor of Philosophy (major: Mobile Convergence Engineering, advisor: [Prof. Jihwan Moon](https://anschino.github.io/ccsl/){:target="_blank"})
+  * Doctor of Philosophy (major: mobile convergence engineering, advisor: [Prof. Jihwan Moon](https://anschino.github.io/ccsl/){:target="_blank"})
   * Department of Mobile Convergence Engineering, [Hanbat National University](https://www.hanbat.ac.kr){:target="_blank"}, the Republic of Korea
 * Sep. 2022	- Aug. 2024
-  * Master of Engineering (major: Mobile Convergence Engineering, advisor: [Prof. Jihwan Moon](https://anschino.github.io/ccsl/){:target="_blank"})
+  * Master of Engineering (major: mobile convergence engineering, advisor: [Prof. Jihwan Moon](https://anschino.github.io/ccsl/){:target="_blank"})
   * Departmet of Mobile Convergence Engineering, [Hanbat National University](https://www.hanbat.ac.kr){:target="_blank"}, the Republic of Korea
   * Thesis: "Detection Error Probability Maximization for Relay-Based Covert Communications"
 * Sep. 2012	- Aug. 2016
-  * Bachelor of science (major: Computer Science and Engineering)
+  * Bachelor of science (major: computer science and engineering)
   * Departmet of Computer Science and Engineering, [Primeasia University](https://www.primeasia.edu.bd/){:target="_blank"}, the Republic of Bangladesh
