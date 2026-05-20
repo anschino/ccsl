@@ -11,6 +11,11 @@ hide_footer: true
 
 # Domestic patents
 
+9. __Jihwan Moon__,      
+__"시분할 다중 접속 기반의 은닉 통신 방법 및 장치 (METHOD AND APPARATUS FOR COVERT COMMUNICATION BASED ON TIME DIVISION MULTIPLE ACCESS),"__      
+Patent date: Filed May 14, 2026 (pending)      
+Patent issuer and number: KR 10-2026-0087086 (pending)      
+
 8. Hoon Lee and __Jihwan Moon__,      
 __"다중 위성의 스폿 빔 전력을 결정하는 방법 및 장치 (METHOD AND APPARATUS FOR DETERMINING SPOT BEAM POWER OF MULTIPLE SATELLITES),"__      
 Patent date: Filed Sep. 11, 2025 (pending)      

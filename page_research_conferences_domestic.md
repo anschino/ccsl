@@ -11,13 +11,23 @@ hide_footer: true
 
 # Domestic conferences
 
+30. Sangmin Kim, Jeongwon Kim, __Jihwan Moon__, Sangwon Hwang, Zhilin Fu, and Inkyu Lee,        
+__"Energy Efficient Beamforming Designs for Integrated Sensing and Communication Systems,"__     
+2026 Summer Conference of the Korea Information and Communications Society (KICS), 17 Jun. - 19 Jun. 2026.       
+
+29. Jeongwon Kim, Sangwon Hwang, Sangmin Kim, Zhilin Fu, __Jihwan Moon__, and Inkyu Lee,        
+__"UAV-Enabled IPSAC Systems based on Deep Reinforcement Learning,"__     
+2026 Summer Conference of the Korea Information and Communications Society (KICS), 17 Jun. - 19 Jun. 2026.       
+
 28. Jeongwon Kim, Sangwon Hwang, Sangmin Kim, Zhilin Fu, __Jihwan Moon__, and Inkyu Lee,        
 __"Constrained Deep Reinforcement Learning for User Scheduling in UAV-Enabled Communications,"__     
 2026 Winter Conference of the Korea Information and Communications Society (KICS), 04 Feb. - 06 Feb. 2026.       
+Link: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12738376](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12738376){:target="_blank"}       
 
 27. __Suan Lee__, __Yehyun Jo__ and __Jihwan Moon__,      
 __"Implementation of IoT Protocols for an Acoustic-Based On-Campus Attendance System,"__     
 2026 Winter Conference of the Korea Information and Communications Society (KICS), 04 Feb. - 06 Feb. 2026.       
+Link: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12738684](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12738684){:target="_blank"}       
 
 26. __Md Gulam Ishak__ and __Jihwan Moon__,      
 __"Revisiting Spatial Ultra-Sparse Distributed Antenna Satellite-Ground Cooperative Transmission: Technologies and Challenges,"__     
