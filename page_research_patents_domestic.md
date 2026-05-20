@@ -11,6 +11,11 @@ hide_footer: true
 
 # Domestic patents
 
+10. __Jihwan Moon__,      
+__"송신 전력에 기반한 은닉 통신 방법 및 장치 (METHOD AND APPARATUS FOR COVERT COMMUNICATION BASED ON TRANSMISSION POWER),"__      
+Patent date: Filed May 20, 2026 (pending)      
+Patent issuer and number: KR 10-2026-0091370 (pending)      
+
 9. __Jihwan Moon__,      
 __"시분할 다중 접속 기반의 은닉 통신 방법 및 장치 (METHOD AND APPARATUS FOR COVERT COMMUNICATION BASED ON TIME DIVISION MULTIPLE ACCESS),"__      
 Patent date: Filed May 14, 2026 (pending)      
