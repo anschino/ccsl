@@ -11,13 +11,21 @@ hide_footer: true
 
 # Domestic conferences
 
-30. Sangmin Kim, Jeongwon Kim, __Jihwan Moon__, Sangwon Hwang, Zhilin Fu, and Inkyu Lee,        
+32. Sangmin Kim, Jeongwon Kim, __Jihwan Moon__, Sangwon Hwang, Zhilin Fu, and Inkyu Lee,        
 __"Energy Efficient Beamforming Designs for Integrated Sensing and Communication Systems,"__     
 2026 Summer Conference of the Korea Information and Communications Society (KICS), 17 Jun. - 19 Jun. 2026.       
 
-29. Jeongwon Kim, Sangwon Hwang, Sangmin Kim, Zhilin Fu, __Jihwan Moon__, and Inkyu Lee,        
+31. Jeongwon Kim, Sangwon Hwang, Sangmin Kim, Zhilin Fu, __Jihwan Moon__, and Inkyu Lee,        
 __"UAV-Enabled IPSAC Systems based on Deep Reinforcement Learning,"__     
 2026 Summer Conference of the Korea Information and Communications Society (KICS), 17 Jun. - 19 Jun. 2026.       
+
+30. __Refat Khan__ and __Jihwan Moon__,      
+__"Research Trends in Pinching Antenna-Based Communication Systems,"__     
+2026 The 36th Joint Conference on Communications and Information (JCCI), 15 - 17 Apr. 2026.      
+
+29. __Md Sakil Hasan__ and __Jihwan Moon__,      
+__"Recent Trends in Communications Technologies Using Movable Antennas,"__     
+2026 The 36th Joint Conference on Communications and Information (JCCI), 15 - 17 Apr. 2026.      
 
 28. Jeongwon Kim, Sangwon Hwang, Sangmin Kim, Zhilin Fu, __Jihwan Moon__, and Inkyu Lee,        
 __"Constrained Deep Reinforcement Learning for User Scheduling in UAV-Enabled Communications,"__     
