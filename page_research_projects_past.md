@@ -11,6 +11,10 @@ hide_footer: true
 
 # Past projects
 
+7. Jun. 2021 - May. 2026.       
+__"Covert Communication Strategies for Information Security in The Next-Generation Internet-of-Things Networks (차세대 사물인터넷 정보 보안을 위한 은닉 통신 기술 개발)"__     
+_National Research Foundation of Korea (NRF)_  _(한국연구재단)_     
+
 6. May 2025. - Oct. 2025.      
 __"A Security Analysis on the Physical Layer in Low-Power Long-Range Internet-of-Things (IoT) Communications (IoT 저전력 장거리 통신 물리 계층 안전성 분석 연구)"__     
 _The Affiliated Institute of Electronics and Telecommunications Research Institute (ETRI)_ _(한국전자통신연구원 부설연구소)_        
