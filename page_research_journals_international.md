@@ -48,6 +48,19 @@ DOI: [10.3390/s26030914](https://doi.org/10.3390/s26030914){:target="_blank"}
 __"Covert Communications in Multi-antenna Two-way Relay Systems,"__     
 _IEEE Transactions on Vehicular Technology_, Vol. 74, No. 9, pp. 14069 - 14080, Sept. 2025.       
 DOI: [10.1109/TVT.2025.3561872](https://doi.org/10.1109/TVT.2025.3561872){:target="_blank"}       
+    <details>
+        <summary><span style="color:slategray">More infomation</span></summary>
+            <span style="color:slategray">
+            <ul>
+            <li>JIF: 7.5</li>
+            <li>Year: 2025</li>
+            <li>Category: ENGINEERING, ELECTRICAL & ELECTRONIC</li>
+            <li>Rank: 41/369</li>
+            <li>Quartile: Q1</li>
+            <li>Percentile: 89.0</li>
+            </ul>
+            </span>
+    </details>
 
 18. __Jihwan Moon__,        
 __"Covert Communications in a Hybrid DF/AF Relay System,"__     
