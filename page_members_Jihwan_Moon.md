@@ -54,6 +54,9 @@ show_sidebar: false
 * Nov. 2025
   * The Journal of Korean Institute of Communications and Information Sciences (J-KICS) Best paper award
   * Title: Spot Beam Power Optimization for an Energy Efficient Multi-LEO Satellite Network
+* Oct. 2024
+  * 2024 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES) Outstanding paper award
+  * Title: Optimal Relay Mode Selection for Two-Hop Covert Communications
 * Jul. 2024
   * 2024 The 15th International Conference on Ubiquitous and Future Networks (ICUFN) Best paper runner-up award
   * Title: Energy Efficiency Maximization for Multi-LEO Satellite Networks
