@@ -11,10 +11,6 @@ hide_footer: true
 
 # International journals
 
-26. Taehoon Kim, Wonho Lee, Kyungmin Park, __Jihwan Moon__, and Inkyu Bang,        
-__"A Unified Analytical Framework for Two-Step Random Access with Fallback: Toward Resource-Efficient Operation,"__       
-_submitted for possible publication_        
-
 25. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangchun Park, and Inkyu Lee,        
 __"Adaptive Sensing Mode Selection and Beamforming Designs for Integrated Dynamic Sensing and Communication Systems,"__       
 _submitted for possible publication_        

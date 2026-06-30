@@ -13,7 +13,7 @@ hide_footer: true
 
 13. __Jihwan Moon__,        
 __"Detection Error Probability of Covert Communications via Power-Domain Binary Embedding,"__     
-_submitted for possible publication_        
+_to appear in The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_       
 
 12. Choeun Lee, Hyerin Oh, Seockjun Hwang, and __Jihwan Moon__,        
 __"Implementation of Speaker-to-Speaker Side-Channel Attack in an Air-Gapped Environment,"__     
