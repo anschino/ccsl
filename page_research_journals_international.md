@@ -22,12 +22,12 @@ DOI: [10.1109/TVT.2026.3703411](https://doi.org/10.1109/TVT.2026.3703411){:targe
 
 23. __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
 __"Covert Communications in a Downlink Time Division Multiple Access System,"__       
-_to appear in Scientific Reports_       
+_Scientific Reports_, Vol. 16, p. 21240, May 2026.       
 DOI: [10.1038/s41598-026-49218-3](https://doi.org/10.1038/s41598-026-49218-3){:target="_blank"}       
 
 22. __Jihwan Moon__, Sangwon Hwang, Juseong Park, Inkyu Bang, Taehoon Kim, and Zhilin Fu,        
 __"Achievable Performance of Covert Communications via Power-Domain Binary Embedding,"__       
-_IEEE Wireless Communications Letters_, Vol. 15, pp. 2644-2648, 2026.        
+_IEEE Wireless Communications Letters_, Vol. 15, pp. 2644-2648, Mar. 2026.        
 DOI: [10.1109/LWC.2026.3679366](https://doi.org/10.1109/LWC.2026.3679366){:target="_blank"}       
 
 21. Ivy Selorm Dogbey, Yongjae Lee, __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
@@ -78,7 +78,7 @@ DOI: [10.3390/s24206518](https://doi.org/10.3390/s24206518){:target="_blank"}
 
 17. Suho Shin, Prince Anokye, Hoon Lee, __Jihwan Moon__, and Kyoung-Jae Lee,        
 __"Balancing Available Energy Distribution in mMIMO SWIPT Sensor Networks With Low Resolution ADC/DAC,"__       
-_IEEE Access_, Vol. 12, pp. 128702-128716, 2024.        
+_IEEE Access_, Vol. 12, pp. 128702-128716, Sept. 2024.        
 DOI: [10.1109/ACCESS.2024.3456800](https://doi.org/10.1109/ACCESS.2024.3456800){:target="_blank"}     
     <details>
         <summary><span style="color:slategray">More infomation</span></summary>
