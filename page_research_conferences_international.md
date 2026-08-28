@@ -11,6 +11,14 @@ hide_footer: true
 
 # International conferences
 
+15. __Shallom Ezekiel__, __Refat Khan__, and __Jihwan Moon__,      
+__"Low-Probability-of-Detection Transmission With Power-Domain Binary Embedding,"__      
+2026 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Seoul, the Republic of Korea, 12 - 14 Aug. 2026.      
+
+14. __Md Gulam Ishak__, __Md Sakil Hasan__, and __Jihwan Moon__,      
+__"Low-Probability-of-Detection Downlink Transmission in Time Division Multiple Access,"__      
+2026 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Seoul, the Republic of Korea, 12 - 14 Aug. 2026.      
+
 13. Kun Ju Kim, Seonghyun Kim, __Md Sakil Hasan__, __Refat Khan__, __Md Gulam Ishak__, __Jihwan Moon__, Kyoung-Jae Lee, and Gosan Noh,      
 __"NTN Evolution in 3GPP 5G Advanced,"__      
 2025 The 16th International Conference on Information and Communication Technology Convergence (ICTC), Jeju, the Republic of Korea, 14 - 17 Oct. 2025.      

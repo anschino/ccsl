@@ -22,23 +22,12 @@
       link_internal: true
       ratio: is-128x128
 
-    - link: /img/img_Member.jpg
-      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
-      alt: The alt text for the image
-      #description: |-
-      name: Refat Khan
-      position: Ph.D. student (2024.09. - present)
-      email: refatkhanuits [at] gmail [dot] com
-      link_cv: 
-      link_internal: true
-      ratio: is-128x128
-
     - link: /img/img_Md_Gulam_Ishak.jpg
       #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
       alt: The alt text for the image
       #description: |-
       name: Md Gulam Ishak
-      position: M.S. student (2025.03. - present)
+      position: Master's student (2025.03. - present)
       email: gulamishakarick [at] gmail [dot] com
       link_cv: page_members_Md_Gulam_Ishak
       link_internal: true
@@ -49,9 +38,31 @@
       alt: The alt text for the image
       #description: |-
       name: Shallom Ezekiel
-      position: M.S. student (2026.03. - present)
+      position: Master's student (2026.03. - present)
       email: ezekielshallom1 [at] gmail [dot] com
       link_cv: page_members_Shallom_Ezekiel
+      link_internal: true
+      ratio: is-128x128
+
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: Umme Riazul Jannat Eiva
+      position: Master's student (2026.09. - present)
+      email: riazuljannateiva344 [at] gmail [dot] com
+      link_cv:
+      link_internal: true
+      ratio: is-128x128
+
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: Ebenezer Marfo Dompreh
+      position: Master's student (2026.09. - present)
+      email: emdompreh [at] gmail [dot] com
+      link_cv:
       link_internal: true
       ratio: is-128x128
     
@@ -79,6 +90,17 @@
 
 - title: Past members
   images:
+    - link: /img/img_Member.jpg
+      #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
+      alt: The alt text for the image
+      #description: |-
+      name: Refat Khan
+      position: Ph.D. student (2024.09. - 2026.08.)
+      email: refatkhanuits [at] gmail [dot] com
+      link_cv: 
+      link_internal: true
+      ratio: is-128x128
+
     - link: /img/img_Member.jpg
       #link: https://github.com/anschino/ccsl/blob/master/img/img_Jihwan_Moon.jpg?raw=true
       alt: The alt text for the image
