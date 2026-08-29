@@ -24,7 +24,7 @@
                         <br>
                         E-mail: {{ image.email }}
                         <br>
-                        {% if image.link_cv != ""%}
+                        {% if image.link_cv and image.link_cv != "" %}
                             {% if image.link_internal == true %}
                                 {% if site.baseurl == "" %}
                                     <a href="{{ site.url }}/{{ image.link_cv }}">Curriculum vitae</a>
@@ -34,9 +34,9 @@
                             {% else %}
                                 <a href="{{ image.link_cv }}">Curriculum vitae</a>
                             {% endif %}
-                        {% end if %}
+                        {% endif %}
                         <br>
-                        {% if image.link_web != ""%}
+                        {% if image.link_web and image.link_web != "" %}
                             {% if image.link_internal == true %}
                                 {% if site.baseurl == "" %}
                                     <a href="{{ site.url }}/{{ image.link_web }}">Personal website</a>
@@ -46,7 +46,7 @@
                             {% else %}
                                 <a href="{{ image.link_web }}">Personal website</a>
                             {% endif %}
-                        {% end if %}
+                        {% endif %}
                     </div>
                 </div>
             </div>
