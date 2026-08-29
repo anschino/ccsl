@@ -18,21 +18,35 @@
                     <div class="content">
                         <!-- {{ image.description | markdownify }} -->
                         <h4><b>{{ image.name }}</b></h4>
-                        Position: {{ image.position }}
+                        <b>{{ image.position }}</b>
                         <br>
                         Degree: {{ image.degree }}
                         <br>
                         E-mail: {{ image.email }}
                         <br>
-                        {% if image.link_internal == true %}
-                            {% if site.baseurl == "" %}
-                                <a href="{{ site.url }}/{{ image.link_cv }}">Curriculum Vitae</a>
+                        {% if image.link_cv != ""%}
+                            {% if image.link_internal == true %}
+                                {% if site.baseurl == "" %}
+                                    <a href="{{ site.url }}/{{ image.link_cv }}">Curriculum vitae</a>
+                                {% else %}
+                                    <a href="{{ site.url }}/{{ site.baseurl }}/{{ image.link_cv }}">Curriculum vitae</a>
+                                {% endif %}
                             {% else %}
-                                <a href="{{ site.url }}/{{ site.baseurl }}/{{ image.link_cv }}">Curriculum Vitae</a>
+                                <a href="{{ image.link_cv }}">Curriculum vitae</a>
                             {% endif %}
-                        {% else %}
-                            <a href="{{ image.link_cv }}">Curriculum Vitae</a>
-                        {% endif %}
+                        {% end if %}
+                        <br>
+                        {% if image.link_web != ""%}
+                            {% if image.link_internal == true %}
+                                {% if site.baseurl == "" %}
+                                    <a href="{{ site.url }}/{{ image.link_web }}">Personal website</a>
+                                {% else %}
+                                    <a href="{{ site.url }}/{{ site.baseurl }}/{{ image.link_web }}">Personal website</a>
+                                {% endif %}
+                            {% else %}
+                                <a href="{{ image.link_web }}">Personal website</a>
+                            {% endif %}
+                        {% end if %}
                     </div>
                 </div>
             </div>
