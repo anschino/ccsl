@@ -24,6 +24,10 @@
                         <br>
                         E-mail: {{ image.email }}
                         <br>
+                        {% if image.link_cv and image.aff != "" %}
+                            Current affiliation: {{ image.aff }}
+                        {% endif %}
+                        <br>
                         {% if image.link_cv and image.link_cv != "" %}
                             {% if image.link_internal == true %}
                                 {% if site.baseurl == "" %}
