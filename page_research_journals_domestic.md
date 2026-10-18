@@ -11,6 +11,10 @@ hide_footer: true
 
 # Domestic journals
 
+14. Euntae Seo, Hoon Lee, __Jihwan Moon__, Byungju Lim, and Sangwon Hwang,      
+__"Task Offloading for Cooperative Multi-Hop Satellite Mobile Edge Computing Networks,"__     
+_to appear in The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_       
+
 13. __Jihwan Moon__,        
 __"Detection Error Probability of Covert Communications via Power-Domain Binary Embedding,"__     
 _to appear in The Journal of Korean Institute of Communications and Information Sciences (J-KICS)_       

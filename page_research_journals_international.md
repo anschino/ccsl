@@ -11,6 +11,10 @@ hide_footer: true
 
 # International journals
 
+26. __Jihwan Moon__, Sangwon Hwang, Zhilin Fu, Haneol Jang, __Md Sakil Hasan__, and Taehoon Kim,        
+__"Global Optimality of the Sum Covert Rate in Downlink Multiple Access Systems: TDMA and NOMA,"__       
+_submitted for possible publication_        
+
 25. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangchun Park, and Inkyu Lee,        
 __"Adaptive Sensing Mode Selection and Beamforming Designs for Integrated Dynamic Sensing and Communication Systems,"__       
 _submitted for possible publication_        

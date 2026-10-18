@@ -11,6 +11,10 @@ hide_footer: true
 
 # International conferences
 
+16. Emmanuel Kwaning Kwakye, __Jihwan Moon__, Taehoon Kim, Inkyu Bang, and H. Vincent Poor,     
+__"Sensing-Assisted Deep Learning for Secure Multiuser Scheduling in ISAC Systems,"__     
+to be presented at 2026 IEEE Global Communications Conference (GLOBECOM), Macau S.A.R., China, 7 - 11 Dec. 2026.        
+
 15. __Shallom Ezekiel__, __Refat Khan__, and __Jihwan Moon__,      
 __"Low-Probability-of-Detection Transmission With Power-Domain Binary Embedding,"__      
 2026 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Seoul, the Republic of Korea, 12 - 14 Aug. 2026.      

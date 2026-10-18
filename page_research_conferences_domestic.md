@@ -11,13 +11,36 @@ hide_footer: true
 
 # Domestic conferences
 
+37. Ryang Choi, Hyojeong Seo, and __Jihwan Moon__,      
+__"A Medication Information System Using Pill Identification and AI Consultation,"__     
+2026 Autumn Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 27 - 28 Nov. 2026.     
+
+36. __Umme Riazul Jannat Eiva__ and __Jihwan Moon__,      
+__"A Review of Fluid Antenna Systems for 6G: Channel Modeling, Applications, and Research Perspective,"__     
+2026 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 23 Oct. 2026.     
+
+35. __Shallom Ezekiel__ and __Jihwan Moon__,      
+__"Review of Practical Constraints in Reconfigurable Fluid Antenna Systems,"__     
+2026 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 23 Oct. 2026.     
+
+34. __Md Sakil Hasan__ and __Jihwan Moon__,      
+__"Movable-Antenna-Enabled UAV Relay for Covert Communication,"__     
+2026 Radio Science and Communications Conference (RSCC) of the Korean Institute of Electromagnetic Engineering and Science (KIEES), 23 Oct. 2026.     
+
+33. Hoon Lee and __Jihwan Moon__,       
+__"Covert Signal Processing Techniques for LEO Satellite Networks,"__     
+2026 The Korean Institute of Broadcast and Media Engineers (KIBME) Summer Conference, 18 Jun. - 20 Jun. 2026.       
+Link: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12902745](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12902745){:target="_blank"}       
+
 32. Sangmin Kim, Jeongwon Kim, __Jihwan Moon__, Sangwon Hwang, Zhilin Fu, and Inkyu Lee,        
 __"Energy Efficient Beamforming Designs for Integrated Sensing and Communication Systems,"__     
 2026 Summer Conference of the Korea Information and Communications Society (KICS), 17 Jun. - 19 Jun. 2026.       
+Link: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12963977](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12963977){:target="_blank"}       
 
 31. Jeongwon Kim, Sangwon Hwang, Sangmin Kim, Zhilin Fu, __Jihwan Moon__, and Inkyu Lee,        
 __"UAV-Enabled IPSAC Systems based on Deep Reinforcement Learning,"__     
 2026 Summer Conference of the Korea Information and Communications Society (KICS), 17 Jun. - 19 Jun. 2026.       
+Link: [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12964332](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12964332){:target="_blank"}       
 
 30. __Refat Khan__ and __Jihwan Moon__,      
 __"Research Trends in Pinching Antenna-Based Communication Systems,"__     
