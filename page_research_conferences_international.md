@@ -18,10 +18,12 @@ to be presented at 2026 IEEE Global Communications Conference (GLOBECOM), Macau 
 15. __Shallom Ezekiel__, __Refat Khan__, and __Jihwan Moon__,      
 __"Low-Probability-of-Detection Transmission With Power-Domain Binary Embedding,"__      
 2026 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Seoul, the Republic of Korea, 12 - 14 Aug. 2026.      
+DOI: [10.1109/APWCS71511.2026.11742696](https://doi.org/10.1109/APWCS71511.2026.11742696){:target="_blank"}       
 
 14. __Md Gulam Ishak__, __Md Sakil Hasan__, and __Jihwan Moon__,      
 __"Low-Probability-of-Detection Downlink Transmission in Time Division Multiple Access,"__      
 2026 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Seoul, the Republic of Korea, 12 - 14 Aug. 2026.      
+DOI: [10.1109/APWCS71511.2026.11742626](https://doi.org/10.1109/APWCS71511.2026.11742626){:target="_blank"}       
 
 13. Kun Ju Kim, Seonghyun Kim, __Md Sakil Hasan__, __Refat Khan__, __Md Gulam Ishak__, __Jihwan Moon__, Kyoung-Jae Lee, and Gosan Noh,      
 __"NTN Evolution in 3GPP 5G Advanced,"__      
