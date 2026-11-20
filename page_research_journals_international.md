@@ -21,7 +21,7 @@ _to appear in IEEE Transactions on Wireless Communications_
 
 24. Zhilin Fu, Sangmin Kim, Sangwon Hwang, __Jihwan Moon__, Jeongwon Kim, Jaewan Kim, and Inkyu Lee,        
 __"Deep Reinforcement Learning for Adaptive Power Allocation in ISAC Systems with Mobile Target,"__       
-_to appear in IEEE Transactions on Vehicular Technology_       
+_IEEE Transactions on Vehicular Technology_, Vol. 75, No. 10, pp. 25426-25431, Oct. 2026.       
 DOI: [10.1109/TVT.2026.3703411](https://doi.org/10.1109/TVT.2026.3703411){:target="_blank"}       
 
 23. __Jihwan Moon__, Taehoon Kim, and Inkyu Bang,        
