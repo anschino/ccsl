@@ -18,6 +18,7 @@ _submitted for possible publication_
 25. Sangmin Kim, Zhilin Fu, __Jihwan Moon__, Sangwon Hwang, Sangchun Park, and Inkyu Lee,        
 __"Adaptive Sensing Mode Selection and Beamforming Designs for Integrated Dynamic Sensing and Communication Systems,"__       
 _to appear in IEEE Transactions on Wireless Communications_        
+DOI: [10.1109/TWC.2026.3757134](https://doi.org/10.1109/TWC.2026.3757134){:target="_blank"}       
 
 24. Zhilin Fu, Sangmin Kim, Sangwon Hwang, __Jihwan Moon__, Jeongwon Kim, Jaewan Kim, and Inkyu Lee,        
 __"Deep Reinforcement Learning for Adaptive Power Allocation in ISAC Systems with Mobile Target,"__       
